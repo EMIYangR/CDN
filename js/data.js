@@ -1,6 +1,8 @@
 export const dataArray = [
     // 默认空
     { "value": "", "text": "Null","alias":""},
+    { "value": "none", "text": "Null","alias":"none"},
+    { "value": "none", "text": "Null","alias":"transparent"},
     // Honor of Kings CN
     { "value": "agudo", "text": "Agudo (阿古朵)","alias":"aguduo"},
     { "value": "agudo", "text": "Agudo (阿古朵)","alias":"a gu duo"},
