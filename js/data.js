@@ -1,6 +1,7 @@
 export const dataArray = [
     // 默认空
     { "value": "", "text": "Null","alias":""},
+    // No Ban
     { "value": "none", "text": "None","alias":"none"},
     { "value": "none", "text": "None","alias":"transparent"},
     // Honor of Kings CN
