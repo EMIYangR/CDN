@@ -165,6 +165,7 @@ export const dataArray = [
     { "value": "jing", "text": "Jing (镜)","alias":"jing"},
     { "value": "kaizer", "text": "Kaizer (铠)","alias":"kaizer"},
     { "value": "kaizer", "text": "Kaizer (铠)","alias":"kai"},
+    { "value": "kong kong er", "text": "Kong Kong Er (空空儿)","alias":"kong kong er"},
     { "value": "kongming", "text": "Kongming (诸葛亮)","alias":"zhuge liang"},
     { "value": "kongming", "text": "Kongming (诸葛亮)","alias":"zhuge"},
     { "value": "kongming", "text": "Kongming (诸葛亮)","alias":"zgl"},
