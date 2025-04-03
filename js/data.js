@@ -1,5 +1,5 @@
 export const dataArray = [
-    // 默认空
+    // Default Null
     { "value": "", "text": "Null","alias":""},
     // No Ban
     { "value": "none", "text": "None","alias":"none"},
@@ -388,7 +388,7 @@ export const dataArray = [
     { "value": "ata", "text": "Ata (阿塔)","alias":"ata"},
     // Arena of Valor
 
-    // 移除的英雄
+    // Removed Heroes
     { "value": "genghis khan", "text": "Genghis Khan (成吉思汗)","alias":"genghis"},
     { "value": "genghis khan", "text": "Genghis Khan (成吉思汗)","alias":"khan"},
     { "value": "genghis khan", "text": "Genghis Khan (成吉思汗)","alias":"genghis khan"}
