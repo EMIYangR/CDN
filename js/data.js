@@ -2,8 +2,8 @@ export const dataArray = [
     // Default Null
     { "value": "", "text": "Null","alias":""},
     // No Ban
-    { "value": "none", "text": "None","alias":"none"},
-    { "value": "none", "text": "None","alias":"transparent"},
+    { "value": "none", "text": "Default","alias":"none"},
+    { "value": "none", "text": "Default","alias":"transparent"},
     // Honor of Kings CN
     { "value": "agudo", "text": "Agudo (阿古朵)","alias":"aguduo"},
     { "value": "agudo", "text": "Agudo (阿古朵)","alias":"a gu duo"},
@@ -58,6 +58,11 @@ export const dataArray = [
     { "value": "child of the primal flow (tank)", "text": "Child Of The Primal Flow (Tank) (元流之子·坦克)","alias":"child of the primal flow (tank)"},
     { "value": "child of the primal flow (tank)", "text": "Child Of The Primal Flow (Tank) (元流之子·坦克)","alias":"child of the primal flow tank"},
     { "value": "child of the primal flow (tank)", "text": "Child Of The Primal Flow (Tank) (元流之子·坦克)","alias":"child tank"},
+    { "value": "child of the primal flow (archer)", "text": "Child Of The Primal Flow (Archer) (元流之子·射手)","alias":"child of the primal flow (archer)"},
+    { "value": "child of the primal flow (archer)", "text": "Child Of The Primal Flow (Archer) (元流之子·射手)","alias":"child of the primal flow (marksman)"},
+    { "value": "child of the primal flow (archer)", "text": "Child Of The Primal Flow (Archer) (元流之子·射手)","alias":"child of the primal flow archer"},
+    { "value": "child of the primal flow (archer)", "text": "Child Of The Primal Flow (Archer) (元流之子·射手)","alias":"child archer"},
+    { "value": "child of the primal flow (archer)", "text": "Child Of The Primal Flow (Archer) (元流之子·射手)","alias":"child mm"},
     { "value": "cirrus", "text": "Cirrus (云中君)","alias":"long feng"},
     { "value": "cirrus", "text": "Cirrus (云中君)","alias":"yun zhongjun"},
     { "value": "cirrus", "text": "Cirrus (云中君)","alias":"yun zhong jun"},
