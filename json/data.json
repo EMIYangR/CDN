@@ -1,0 +1,1205 @@
+[
+    {
+        "value": "none",
+        "text": "Default",
+        "alias": [
+            "none",
+            "transparent"
+        ]
+    },
+    {
+        "value": "flowborn (mage)",
+        "text": "Flowborn (Mage) (元流之子(法师))",
+        "alias": [
+            "child of the primal flow mage",
+            "child mage",
+            "child of the primal flow (mage)",
+            "flowborn mage",
+            "flowborn (mage)"
+        ]
+    },
+    {
+        "value": "flowborn (marksman)",
+        "text": "Flowborn (Marksman) (元流之子(射手))",
+        "alias": [
+            "flowborn (marksman)",
+            "child of the primal flow (marksman)",
+            "child of the primal flow (archer)",
+            "flowborn marksman",
+            "child mm",
+            "flowborn (archer)",
+            "child archer",
+            "flowborn mm",
+            "flowborn archer",
+            "child of the primal flow archer"
+        ]
+    },
+    {
+        "value": "flowborn (tank)",
+        "text": "Flowborn (Tank) (元流之子(坦克))",
+        "alias": [
+            "child of the primal flow (tank)",
+            "child of the primal flow tank",
+            "flowborn tank",
+            "flowborn (tank)",
+            "child tank"
+        ]
+    },
+    {
+        "value": "agudo",
+        "text": "Agudo (阿古朵)",
+        "alias": [
+            "aguduo",
+            "a gu duo",
+            "aguto",
+            "agudo"
+        ]
+    },
+    {
+        "value": "alessio",
+        "text": "Alessio (莱西奥)",
+        "alias": [
+            "alessio",
+            "laixiao"
+        ]
+    },
+    {
+        "value": "allain",
+        "text": "Allain (亚连)",
+        "alias": [
+            "yalian",
+            "yl",
+            "allain"
+        ]
+    },
+    {
+        "value": "angela",
+        "text": "Angela (安琪拉)",
+        "alias": [
+            "anqila",
+            "angela",
+            "an qi la"
+        ]
+    },
+    {
+        "value": "ao'yin",
+        "text": "Ao'yin (敖隐)",
+        "alias": [
+            "ao'yin",
+            "aoyin",
+            "loong"
+        ]
+    },
+    {
+        "value": "arke",
+        "text": "Arke (阿轲)",
+        "alias": [
+            "ake",
+            "a ke"
+        ]
+    },
+    {
+        "value": "arli",
+        "text": "Arli (公孙离)",
+        "alias": [
+            "gong sun li",
+            "gong",
+            "gongsun li"
+        ]
+    },
+    {
+        "value": "arthur (honor of kings)",
+        "text": "Arthur (亚瑟)",
+        "alias": [
+            "arthur hok",
+            "arthur (hok)",
+            "arthur (honor of kings)",
+            "arthurhok"
+        ]
+    },
+    {
+        "value": "athena",
+        "text": "Athena (雅典娜)",
+        "alias": [
+            "athena",
+            "yadianna",
+            "ya dian na"
+        ]
+    },
+    {
+        "value": "augran",
+        "text": "Augran (大司命)",
+        "alias": [
+            "da siming",
+            "augran",
+            "dasm"
+        ]
+    },
+    {
+        "value": "bai qi",
+        "text": "Bai Qi (白起)",
+        "alias": [
+            "bai qi",
+            "baiqi"
+        ]
+    },
+    {
+        "value": "biron",
+        "text": "Biron (狂铁)",
+        "alias": [
+            "magnus",
+            "kuangtie",
+            "kuang tie",
+            "biron"
+        ]
+    },
+    {
+        "value": "cai yan",
+        "text": "Cai Yan (蔡文姬)",
+        "alias": [
+            "little lute",
+            "cai yan",
+            "caiwenji",
+            "cai wenji"
+        ]
+    },
+    {
+        "value": "cao cao",
+        "text": "Cao Cao (曹操)",
+        "alias": [
+            "caocao",
+            "cao cao"
+        ]
+    },
+    {
+        "value": "chano",
+        "text": "Chano (苍)",
+        "alias": [
+            "chano",
+            "cang"
+        ]
+    },
+    {
+        "value": "chang'e",
+        "text": "Chang'e (嫦娥)",
+        "alias": [
+            "chang'e",
+            "chang"
+        ]
+    },
+    {
+        "value": "charlotte",
+        "text": "Charlotte (夏洛特)",
+        "alias": [
+            "xialt",
+            "xialuote",
+            "charlotte"
+        ]
+    },
+    {
+        "value": "cheng yaojin",
+        "text": "Cheng Yaojin (程咬金)",
+        "alias": [
+            "cheng yaojin"
+        ]
+    },
+    {
+        "value": "cirrus",
+        "text": "Cirrus (云中君)",
+        "alias": [
+            "long feng",
+            "cirrus",
+            "yun zhongjun",
+            "yun zhong jun"
+        ]
+    },
+    {
+        "value": "consort yu",
+        "text": "Consort Yu (虞姬)",
+        "alias": [
+            "juniper",
+            "consort yu",
+            "consort",
+            "yuji",
+            "yj",
+            "yu ji"
+        ]
+    },
+    {
+        "value": "da qiao",
+        "text": "Da Qiao (大乔)",
+        "alias": [
+            "da qiao",
+            "daqiao",
+            "dq"
+        ]
+    },
+    {
+        "value": "daji",
+        "text": "Daji (妲己)",
+        "alias": [
+            "daji"
+        ]
+    },
+    {
+        "value": "dharma",
+        "text": "Dharma (达摩)",
+        "alias": [
+            "dharma",
+            "damo"
+        ]
+    },
+    {
+        "value": "di renjie",
+        "text": "Di Renjie (狄仁杰)",
+        "alias": [
+            "di renjie",
+            "renjie",
+            "judge dee",
+            "direnjie"
+        ]
+    },
+    {
+        "value": "dian wei",
+        "text": "Dian Wei (典韦)",
+        "alias": [
+            "dianwei",
+            "dian wei"
+        ]
+    },
+    {
+        "value": "diaochan (honor of kings)",
+        "text": "Diaochan (貂蝉)",
+        "alias": [
+            "diaochanhok",
+            "diao chan (honor of kings)",
+            "diaochan (hok)",
+            "diao chan hok",
+            "diao chan (hok)",
+            "diao hok",
+            "diaochan hok"
+        ]
+    },
+    {
+        "value": "dolia",
+        "text": "Dolia (朵莉亚)",
+        "alias": [
+            "dolia",
+            "duo li ya",
+            "doria"
+        ]
+    },
+    {
+        "value": "donghuang",
+        "text": "Donghuang (东皇太一)",
+        "alias": [
+            "dong huang tai yi",
+            "taiyi",
+            "donghuangtaiyi",
+            "east emperor taiyi",
+            "tai yi",
+            "dong huang",
+            "dong huang taiyi",
+            "eclipse",
+            "east taiyi"
+        ]
+    },
+    {
+        "value": "dr bian",
+        "text": "Dr Bian (扁鹊)",
+        "alias": [
+            "bian que",
+            "dr bian",
+            "bianque",
+            "dr. bian",
+            "chemist"
+        ]
+    },
+    {
+        "value": "dun",
+        "text": "Dun (夏侯惇)",
+        "alias": [
+            "xiahou dun",
+            "xiahou",
+            "dun"
+        ]
+    },
+    {
+        "value": "dyadia",
+        "text": "Dyadia (少司缘)",
+        "alias": [
+            "dyadia",
+            "shao siyuan"
+        ]
+    },
+    {
+        "value": "erin",
+        "text": "Erin (艾琳)",
+        "alias": [
+            "erin",
+            "ailin"
+        ]
+    },
+    {
+        "value": "fang",
+        "text": "Fang (李元芳)",
+        "alias": [
+            "liyuanfang",
+            "yuanfang",
+            "li yuanfang",
+            "private ear",
+            "fang"
+        ]
+    },
+    {
+        "value": "feyd",
+        "text": "Feyd (暃)",
+        "alias": [
+            "fei",
+            "feyd"
+        ]
+    },
+    {
+        "value": "fuzi",
+        "text": "Fuzi (老夫子)",
+        "alias": [
+            "lao",
+            "fuzi",
+            "eternal sage",
+            "lao fu zi",
+            "fu zi",
+            "old master"
+        ]
+    },
+    {
+        "value": "gan & mo",
+        "text": "Gan & Mo (干将莫邪)",
+        "alias": [
+            "ganjiang",
+            "ganjiang moye",
+            "gan jiang & mo ye",
+            "gjmy",
+            "smith & blade",
+            "ganjiang & moye",
+            "gan & mo"
+        ]
+    },
+    {
+        "value": "gao",
+        "text": "Gao (高渐离)",
+        "alias": [
+            "gao jianli",
+            "gao",
+            "guitarist"
+        ]
+    },
+    {
+        "value": "gao changgong",
+        "text": "Gao Changgong (兰陵王)",
+        "alias": [
+            "gao changgong",
+            "prince of lanling",
+            "lan ling",
+            "llw",
+            "gcg",
+            "lan ling wan",
+            "lan ling wang",
+            "lanlingwang",
+            "lanling wang",
+            "prince"
+        ]
+    },
+    {
+        "value": "garo",
+        "text": "Garo (伽罗)",
+        "alias": [
+            "galo",
+            "jia luo",
+            "garro",
+            "garo",
+            "jialuo"
+        ]
+    },
+    {
+        "value": "ge ya",
+        "text": "Ge Ya (戈娅)",
+        "alias": [
+            "ge ya",
+            "geya"
+        ]
+    },
+    {
+        "value": "guan yu",
+        "text": "Guan Yu (关羽)",
+        "alias": [
+            "guan yu"
+        ]
+    },
+    {
+        "value": "guiguzi",
+        "text": "Guiguzi (鬼谷子)",
+        "alias": [
+            "gui guzi",
+            "ggz",
+            "guzi",
+            "gui",
+            "guiguzi"
+        ]
+    },
+    {
+        "value": "han xin",
+        "text": "Han Xin (韩信)",
+        "alias": [
+            "hanxin",
+            "han xin"
+        ]
+    },
+    {
+        "value": "haya",
+        "text": "Haya (海月)",
+        "alias": [
+            "haiya",
+            "haya",
+            "hai yue"
+        ]
+    },
+    {
+        "value": "heino",
+        "text": "Heino (海诺)",
+        "alias": [
+            "hainuo",
+            "hai nuo",
+            "heino"
+        ]
+    },
+    {
+        "value": "hou yi",
+        "text": "Hou Yi (后羿)",
+        "alias": [
+            "houyi",
+            "hou yi",
+            "solarus"
+        ]
+    },
+    {
+        "value": "huang zhong",
+        "text": "Huang Zhong (黄忠)",
+        "alias": [
+            "hz",
+            "huang zhong",
+            "huangzhong"
+        ]
+    },
+    {
+        "value": "jin chan",
+        "text": "Jin Chan (金蝉)",
+        "alias": [
+            "jin",
+            "jin chan"
+        ]
+    },
+    {
+        "value": "jing",
+        "text": "Jing (镜)",
+        "alias": [
+            "mirrorblade",
+            "jing"
+        ]
+    },
+    {
+        "value": "kaizer",
+        "text": "Kaizer (铠)",
+        "alias": [
+            "kai",
+            "kaizer"
+        ]
+    },
+    {
+        "value": "kong kong er",
+        "text": "Kong Kong Er (空空儿)",
+        "alias": [
+            "kong kong er"
+        ]
+    },
+    {
+        "value": "kongming",
+        "text": "Kongming (诸葛亮)",
+        "alias": [
+            "kongming",
+            "zgl",
+            "kong ming",
+            "zhuge liang",
+            "zhuge"
+        ]
+    },
+    {
+        "value": "kui",
+        "text": "Kui (钟馗)",
+        "alias": [
+            "kui",
+            "zhong kui",
+            "voidcaller"
+        ]
+    },
+    {
+        "value": "lady sun",
+        "text": "Lady Sun (孙尚香)",
+        "alias": [
+            "lady sun",
+            "dxj",
+            "da xiao jie",
+            "sun shangxiang",
+            "shangxiang",
+            "sunshangxiang"
+        ]
+    },
+    {
+        "value": "lady zhen",
+        "text": "Lady Zhen (甄姬)",
+        "alias": [
+            "zhen ji",
+            "lady zhen",
+            "zhenji"
+        ]
+    },
+    {
+        "value": "lam",
+        "text": "Lam (澜)",
+        "alias": [
+            "lan",
+            "lam"
+        ]
+    },
+    {
+        "value": "li bai",
+        "text": "Li Bai (李白)",
+        "alias": [
+            "li bai"
+        ]
+    },
+    {
+        "value": "li xin",
+        "text": "Li Xin (李信)",
+        "alias": [
+            "li xin"
+        ]
+    },
+    {
+        "value": "lian po",
+        "text": "Lian Po (廉颇)",
+        "alias": [
+            "lian po",
+            "lian"
+        ]
+    },
+    {
+        "value": "liang",
+        "text": "Liang (张良)",
+        "alias": [
+            "zhang liang",
+            "liang",
+            "tomemaster"
+        ]
+    },
+    {
+        "value": "liu bang",
+        "text": "Liu Bang (刘邦)",
+        "alias": [
+            "liu bang",
+            "bang"
+        ]
+    },
+    {
+        "value": "liu bei",
+        "text": "Liu Bei (刘备)",
+        "alias": [
+            "liu bei"
+        ]
+    },
+    {
+        "value": "liu shan",
+        "text": "Liu Shan (刘禅)",
+        "alias": [
+            "liu shan",
+            "mischief"
+        ]
+    },
+    {
+        "value": "lu bu (honor of kings)",
+        "text": "Lu Bu (吕布)",
+        "alias": [
+            "lu bu (honor of kings)",
+            "lubu (hok)",
+            "lu bu (hok)",
+            "lu bu hok",
+            "lubukog",
+            "lubuhok",
+            "lubu hok",
+            "lubu kog",
+            "lubu (kog)"
+        ]
+    },
+    {
+        "value": "luban no.7",
+        "text": "Luban No.7 (鲁班七号)",
+        "alias": [
+            "no7",
+            "luban no7",
+            "luban no.7"
+        ]
+    },
+    {
+        "value": "luna",
+        "text": "Luna (露娜)",
+        "alias": [
+            "luna"
+        ]
+    },
+    {
+        "value": "mai shiranui",
+        "text": "Mai Shiranui (不知火舞)",
+        "alias": [
+            "mai",
+            "mai shiranui",
+            "huowu"
+        ]
+    },
+    {
+        "value": "ma chao",
+        "text": "Ma Chao (马超)",
+        "alias": [
+            "chao",
+            "ma chao",
+            "machao"
+        ]
+    },
+    {
+        "value": "marco polo",
+        "text": "Marco Polo (马可波罗)",
+        "alias": [
+            "marco",
+            "marco polo",
+            "polo"
+        ]
+    },
+    {
+        "value": "master luban",
+        "text": "Master Luban (鲁班大师)",
+        "alias": [
+            "luban m",
+            "master luban",
+            "luban master"
+        ]
+    },
+    {
+        "value": "mayene",
+        "text": "Mayene (姬小满)",
+        "alias": [
+            "jixm",
+            "mayene",
+            "ji xiaoman"
+        ]
+    },
+    {
+        "value": "meng tian",
+        "text": "Meng Tian (蒙恬)",
+        "alias": [
+            "mt",
+            "mengtian",
+            "meng tian"
+        ]
+    },
+    {
+        "value": "meng ya",
+        "text": "Meng Ya (蒙犽)",
+        "alias": [
+            "meng ya",
+            "mengya",
+            "my"
+        ]
+    },
+    {
+        "value": "menki",
+        "text": "Menki (梦奇)",
+        "alias": [
+            "meng qi",
+            "menki"
+        ]
+    },
+    {
+        "value": "mi yue",
+        "text": "Mi Yue (芈月)",
+        "alias": [
+            "miyue",
+            "mi yue"
+        ]
+    },
+    {
+        "value": "milady",
+        "text": "Milady (米莱狄)",
+        "alias": [
+            "milady"
+        ]
+    },
+    {
+        "value": "ming",
+        "text": "Ming (明世隐)",
+        "alias": [
+            "ming",
+            "ming shiyin"
+        ]
+    },
+    {
+        "value": "mozi",
+        "text": "Mozi (墨子)",
+        "alias": [
+            "mozi",
+            "mo zi",
+            "peacekeeper"
+        ]
+    },
+    {
+        "value": "mulan",
+        "text": "Mulan (花木兰)",
+        "alias": [
+            "mulan",
+            "huamulan",
+            "hua mulan"
+        ]
+    },
+    {
+        "value": "musashi",
+        "text": "Musashi (宫本武藏)",
+        "alias": [
+            "miyamoto musashi",
+            "gongben",
+            "musashi"
+        ]
+    },
+    {
+        "value": "nakoruru",
+        "text": "Nakoruru (娜可露露)",
+        "alias": [
+            "nakoruru",
+            "xiaoji",
+            "nako"
+        ]
+    },
+    {
+        "value": "nezha",
+        "text": "Nezha (哪吒)",
+        "alias": [
+            "nezha"
+        ]
+    },
+    {
+        "value": "toro (honor of kings)",
+        "text": "Toro  (牛魔)",
+        "alias": [
+            "torohok",
+            "toro (honor of kings)",
+            "toro (hok)",
+            "toro hok",
+            "niumo"
+        ]
+    },
+    {
+        "value": "nuwa",
+        "text": "Nuwa (女娲)",
+        "alias": [
+            "nuwa"
+        ]
+    },
+    {
+        "value": "pangu",
+        "text": "Pangu (盘古)",
+        "alias": [
+            "pangu"
+        ]
+    },
+    {
+        "value": "pei",
+        "text": "Pei (裴擒虎)",
+        "alias": [
+            "pei qin hu",
+            "pei qinhu",
+            "pei",
+            "peiqinhu",
+            "laohu",
+            "tigerous"
+        ]
+    },
+    {
+        "value": "sakeer",
+        "text": "Sakeer (桑启)",
+        "alias": [
+            "sq",
+            "sangqi",
+            "sang qi",
+            "sakeer"
+        ]
+    },
+    {
+        "value": "shadow",
+        "text": "Shadow (影)",
+        "alias": [
+            "shadow"
+        ]
+    },
+    {
+        "value": "shangguan",
+        "text": "Shangguan (上官婉儿)",
+        "alias": [
+            "shangguan",
+            "waner",
+            "shangguan waner"
+        ]
+    },
+    {
+        "value": "shen mengxi",
+        "text": "Shen Mengxi (沈梦溪)",
+        "alias": [
+            "maomi",
+            "shen mengxi",
+            "shen"
+        ]
+    },
+    {
+        "value": "shi",
+        "text": "Shi (西施)",
+        "alias": [
+            "shi",
+            "xi shi",
+            "xishi"
+        ]
+    },
+    {
+        "value": "shieldun",
+        "text": "Shieldun (盾山)",
+        "alias": [
+            "dun shan",
+            "ds",
+            "shieldun"
+        ]
+    },
+    {
+        "value": "shouyue",
+        "text": "Shouyue (百里守约)",
+        "alias": [
+            "baili shouyue",
+            "shouyue"
+        ]
+    },
+    {
+        "value": "sikong zhen",
+        "text": "Sikong Zhen (司空震)",
+        "alias": [
+            "skz",
+            "sikong zhen",
+            "sikongzhen",
+            "bolt baron",
+            "sikong"
+        ]
+    },
+    {
+        "value": "sima yi",
+        "text": "Sima Yi (司马懿)",
+        "alias": [
+            "sima yi"
+        ]
+    },
+    {
+        "value": "su lie",
+        "text": "Su Lie (苏烈)",
+        "alias": [
+            "su lie"
+        ]
+    },
+    {
+        "value": "sun bin",
+        "text": "Sun Bin (孙膑)",
+        "alias": [
+            "sun bin",
+            "bin",
+            "timebender",
+            "sunbin"
+        ]
+    },
+    {
+        "value": "sun ce",
+        "text": "Sun Ce (孙策)",
+        "alias": [
+            "seafarer",
+            "sunce",
+            "sun ce"
+        ]
+    },
+    {
+        "value": "sun quan",
+        "text": "Sun Quan (孙权)",
+        "alias": [
+            "sun quan"
+        ]
+    },
+    {
+        "value": "sun wukong",
+        "text": "Wukong (孙悟空)",
+        "alias": [
+            "wukong hok",
+            "monkey king",
+            "sun wukong"
+        ]
+    },
+    {
+        "value": "taiyi zhenren",
+        "text": "Taiyi Zhenren (太乙真人)",
+        "alias": [
+            "tz",
+            "zhenren",
+            "taiyi zhenren"
+        ]
+    },
+    {
+        "value": "ukyo tachibana",
+        "text": "Ukyo Tachibana (橘右京)",
+        "alias": [
+            "ukyo tachibana",
+            "ukyo"
+        ]
+    },
+    {
+        "value": "wang zhaojun",
+        "text": "Wang Zhaojun (王昭君)",
+        "alias": [
+            "princess frost",
+            "wang zhaojun",
+            "zhaojun",
+            "zhao jun",
+            "frost"
+        ]
+    },
+    {
+        "value": "wu ze tian",
+        "text": "Wu Ze Tian (武则天)",
+        "alias": [
+            "wzt",
+            "wu ze tian",
+            "wuzetian"
+        ]
+    },
+    {
+        "value": "wuyan",
+        "text": "Wuyan (钟无艳)",
+        "alias": [
+            "wuyen",
+            "zhong wu yan",
+            "zhong wu yen",
+            "wu yen",
+            "wuyan",
+            "zhongwuyen"
+        ]
+    },
+    {
+        "value": "xiang yu",
+        "text": "Xiang Yu (项羽)",
+        "alias": [
+            "hegemon",
+            "xiang yu",
+            "xy"
+        ]
+    },
+    {
+        "value": "xiao qiao",
+        "text": "Xiao Qiao (小乔)",
+        "alias": [
+            "breezy",
+            "xiao qiao",
+            "xq"
+        ]
+    },
+    {
+        "value": "xuance",
+        "text": "Xuance (百里玄策)",
+        "alias": [
+            "xuance",
+            "baili xuance"
+        ]
+    },
+    {
+        "value": "yang jian",
+        "text": "Yang Jian (杨戬)",
+        "alias": [
+            "yang jian"
+        ]
+    },
+    {
+        "value": "dongfang yao",
+        "text": "Yao (曜)",
+        "alias": [
+            "dongfang yao",
+            "male yao",
+            "yao m"
+        ]
+    },
+    {
+        "value": "yaria",
+        "text": "Yaria (瑶)",
+        "alias": [
+            "female yao",
+            "yaria",
+            "yao f"
+        ]
+    },
+    {
+        "value": "ying",
+        "text": "Ying (云缨)",
+        "alias": [
+            "ying",
+            "yunying",
+            "yun ying"
+        ]
+    },
+    {
+        "value": "ying zheng",
+        "text": "Ying Zheng (嬴政)",
+        "alias": [
+            "yz",
+            "ying zheng"
+        ]
+    },
+    {
+        "value": "yixing",
+        "text": "Yixing (弈星)",
+        "alias": [
+            "xing",
+            "yx",
+            "yi xing",
+            "yixing"
+        ]
+    },
+    {
+        "value": "yuan ge",
+        "text": "Yuan Ge (元歌)",
+        "alias": [
+            "yuan ge",
+            "yuan song",
+            "yuange"
+        ]
+    },
+    {
+        "value": "yuhuan",
+        "text": "Yuhuan (杨玉环)",
+        "alias": [
+            "yangyuhuan",
+            "yang yuhuan",
+            "yang guifei",
+            "yyh",
+            "yuhuan"
+        ]
+    },
+    {
+        "value": "zhang fei",
+        "text": "Zhang Fei (张飞)",
+        "alias": [
+            "beast",
+            "zhangfei",
+            "zf",
+            "zhang fei"
+        ]
+    },
+    {
+        "value": "zhao huaizhen",
+        "text": "Zhao Huaizhen (赵怀真)",
+        "alias": [
+            "zhao huaizhen",
+            "zhao hz",
+            "huaizhen"
+        ]
+    },
+    {
+        "value": "zhou yu",
+        "text": "Zhou Yu (周瑜)",
+        "alias": [
+            "zhou yu",
+            "zy"
+        ]
+    },
+    {
+        "value": "zhu bajie",
+        "text": "Zhu Bajie (猪八戒)",
+        "alias": [
+            "pig",
+            "bajie",
+            "zhu bajie"
+        ]
+    },
+    {
+        "value": "zhuangzi",
+        "text": "Zhuangzi (庄周)",
+        "alias": [
+            "zhuang zi",
+            "zhuangzhou",
+            "dreambuilder",
+            "yu",
+            "zhuangzi",
+            "zhuang zhou"
+        ]
+    },
+    {
+        "value": "zilong",
+        "text": "Zilong (赵云)",
+        "alias": [
+            "zhao yun",
+            "zilong"
+        ]
+    },
+    {
+        "value": "ziya",
+        "text": "Ziya (姜子牙)",
+        "alias": [
+            "jzy",
+            "jiang ziya",
+            "jiangziya",
+            "ziya"
+        ]
+    },
+    {
+        "value": "ata",
+        "text": "Ata (阿塔)",
+        "alias": [
+            "ata"
+        ]
+    },
+    {
+        "value": "butterfly",
+        "text": "Butterfly (刀锋宝贝)",
+        "alias": [
+            "daofeng",
+            "butterfly",
+            "daofeng baobei"
+        ]
+    },
+    {
+        "value": "fatih",
+        "text": "Fatih (法提赫)",
+        "alias": [
+            "fatih"
+        ]
+    },
+    {
+        "value": "luara",
+        "text": "Luara (卢雅娜)",
+        "alias": [
+            "luara"
+        ]
+    },
+    {
+        "value": "genghis khan",
+        "text": "Genghis Khan (成吉思汗)",
+        "alias": [
+            "genghis khan",
+            "genghis",
+            "khan"
+        ]
+    }
+]
