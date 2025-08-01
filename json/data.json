@@ -1,5 +1,10 @@
 [
     {
+        "value": "",
+        "text": "Null",
+        "alias": ""
+    },
+    {
         "value": "none",
         "text": "Default",
         "alias": [
