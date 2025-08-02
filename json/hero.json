@@ -1,0 +1,632 @@
+[
+    {
+        "value": "agudo",
+        "text": "阿古朵",
+        "img": "533.jpg"
+    },
+    {
+        "value": "alessio",
+        "text": "莱西奥",
+        "img": "545.jpg"
+    },
+    {
+        "value": "allain",
+        "text": "亚连",
+        "img": "514.jpg"
+    },
+    {
+        "value": "angela",
+        "text": "安琪拉",
+        "img": "142.jpg"
+    },
+    {
+        "value": "ao'yin",
+        "text": "敖隐",
+        "img": "519.jpg"
+    },
+    {
+        "value": "arke",
+        "text": "阿轲",
+        "img": "116.jpg"
+    },
+    {
+        "value": "arli",
+        "text": "公孙离",
+        "img": "199.jpg"
+    },
+    {
+        "value": "arthur (honor of kings)",
+        "text": "亚瑟",
+        "img": "166.jpg"
+    },
+    {
+        "value": "athena",
+        "text": "雅典娜",
+        "img": "183.jpg"
+    },
+    {
+        "value": "augran",
+        "text": "大司命",
+        "img": "517.jpg"
+    },
+    {
+        "value": "bai qi",
+        "text": "白起",
+        "img": "120.jpg"
+    },
+    {
+        "value": "biron",
+        "text": "狂铁",
+        "img": "503.jpg"
+    },
+    {
+        "value": "cai yan",
+        "text": "蔡文姬",
+        "img": "184.jpg"
+    },
+    {
+        "value": "cao cao",
+        "text": "曹操",
+        "img": "128.jpg"
+    },
+    {
+        "value": "chang'e",
+        "text": "嫦娥",
+        "img": "515.jpg"
+    },
+    {
+        "value": "chano",
+        "text": "苍",
+        "img": "177.jpg"
+    },
+    {
+        "value": "charlotte",
+        "text": "夏洛特",
+        "img": "536.jpg"
+    },
+    {
+        "value": "cheng yaojin",
+        "text": "程咬金",
+        "img": "144.jpg"
+    },
+    {
+        "value": "cirrus",
+        "text": "云中君",
+        "img": "506.jpg"
+    },
+    {
+        "value": "consort yu",
+        "text": "虞姬",
+        "img": "174.jpg"
+    },
+    {
+        "value": "da qiao",
+        "text": "大乔",
+        "img": "191.jpg"
+    },
+    {
+        "value": "daji",
+        "text": "妲己",
+        "img": "109.jpg"
+    },
+    {
+        "value": "dharma",
+        "text": "达摩",
+        "img": "134.jpg"
+    },
+    {
+        "value": "di renjie",
+        "text": "狄仁杰",
+        "img": "133.jpg"
+    },
+    {
+        "value": "dian wei",
+        "text": "典韦",
+        "img": "129.jpg"
+    },
+    {
+        "value": "diaochan (honor of kings)",
+        "text": "貂蝉",
+        "img": "141.jpg"
+    },
+    {
+        "value": "dolia",
+        "text": "朵莉亚",
+        "img": "159.jpg"
+    },
+    {
+        "value": "dongfang yao",
+        "text": "曜",
+        "img": "522.jpg"
+    },
+    {
+        "value": "donghuang",
+        "text": "东皇太一",
+        "img": "187.jpg"
+    },
+    {
+        "value": "dr bian",
+        "text": "扁鹊",
+        "img": "119.jpg"
+    },
+    {
+        "value": "dun",
+        "text": "夏侯惇",
+        "img": "126.jpg"
+    },
+    {
+        "value": "dyadia",
+        "text": "少司缘",
+        "img": "577.jpg"
+    },
+    {
+        "value": "erin",
+        "text": "艾琳",
+        "img": "155.jpg"
+    },
+    {
+        "value": "fang",
+        "text": "李元芳",
+        "img": "173.jpg"
+    },
+    {
+        "value": "feyd",
+        "text": "暃",
+        "img": "542.jpg"
+    },
+    {
+        "value": "flowborn (mage)",
+        "text": "元流之子(法师)",
+        "img": "582.jpg"
+    },
+    {
+        "value": "flowborn (marksman)",
+        "text": "元流之子(射手)",
+        "img": "584.jpg"
+    },
+    {
+        "value": "flowborn (tank)",
+        "text": "元流之子(坦克)",
+        "img": "581.jpg"
+    },
+    {
+        "value": "fuzi",
+        "text": "老夫子",
+        "img": "139.jpg"
+    },
+    {
+        "value": "gan & mo",
+        "text": "干将莫邪",
+        "img": "182.jpg"
+    },
+    {
+        "value": "gao changgong",
+        "text": "兰陵王",
+        "img": "153.jpg"
+    },
+    {
+        "value": "gao",
+        "text": "高渐离",
+        "img": "115.jpg"
+    },
+    {
+        "value": "garo",
+        "text": "伽罗",
+        "img": "508.jpg"
+    },
+    {
+        "value": "ge ya",
+        "text": "戈娅",
+        "img": "548.jpg"
+    },
+    {
+        "value": "guan yu",
+        "text": "关羽",
+        "img": "140.jpg"
+    },
+    {
+        "value": "guiguzi",
+        "text": "鬼谷子",
+        "img": "189.jpg"
+    },
+    {
+        "value": "han xin",
+        "text": "韩信",
+        "img": "150.jpg"
+    },
+    {
+        "value": "haya",
+        "text": "海月",
+        "img": "521.jpg"
+    },
+    {
+        "value": "heino",
+        "text": "海诺",
+        "img": "563.jpg"
+    },
+    {
+        "value": "hou yi",
+        "text": "后羿",
+        "img": "169.jpg"
+    },
+    {
+        "value": "huang zhong",
+        "text": "黄忠",
+        "img": "192.jpg"
+    },
+    {
+        "value": "jin chan",
+        "text": "金蝉",
+        "img": "540.jpg"
+    },
+    {
+        "value": "jing",
+        "text": "镜",
+        "img": "531.jpg"
+    },
+    {
+        "value": "kaizer",
+        "text": "铠",
+        "img": "193.jpg"
+    },
+    {
+        "value": "kong kong er",
+        "text": "空空儿",
+        "img": "550.jpg"
+    },
+    {
+        "value": "kongming",
+        "text": "诸葛亮",
+        "img": "190.jpg"
+    },
+    {
+        "value": "kui",
+        "text": "钟馗",
+        "img": "175.jpg"
+    },
+    {
+        "value": "lady sun",
+        "text": "孙尚香",
+        "img": "111.jpg"
+    },
+    {
+        "value": "lady zhen",
+        "text": "甄姬",
+        "img": "127.jpg"
+    },
+    {
+        "value": "lam",
+        "text": "澜",
+        "img": "528.jpg"
+    },
+    {
+        "value": "li bai",
+        "text": "李白",
+        "img": "131.jpg"
+    },
+    {
+        "value": "li xin",
+        "text": "李信",
+        "img": "507.jpg"
+    },
+    {
+        "value": "lian po",
+        "text": "廉颇",
+        "img": "105.jpg"
+    },
+    {
+        "value": "liang",
+        "text": "张良",
+        "img": "156.jpg"
+    },
+    {
+        "value": "liu bang",
+        "text": "刘邦",
+        "img": "149.jpg"
+    },
+    {
+        "value": "liu bei",
+        "text": "刘备",
+        "img": "170.jpg"
+    },
+    {
+        "value": "liu shan",
+        "text": "刘禅",
+        "img": "114.jpg"
+    },
+    {
+        "value": "lu bu (honor of kings)",
+        "text": "吕布",
+        "img": "123.jpg"
+    },
+    {
+        "value": "luban no.7",
+        "text": "鲁班七号",
+        "img": "112.jpg"
+    },
+    {
+        "value": "luna",
+        "text": "露娜",
+        "img": "146.jpg"
+    },
+    {
+        "value": "ma chao",
+        "text": "马超",
+        "img": "518.jpg"
+    },
+    {
+        "value": "mai shiranui",
+        "text": "不知火舞",
+        "img": "157.jpg"
+    },
+    {
+        "value": "marco polo",
+        "text": "马可波罗",
+        "img": "132.jpg"
+    },
+    {
+        "value": "master luban",
+        "text": "鲁班大师",
+        "img": "525.jpg"
+    },
+    {
+        "value": "mayene",
+        "text": "姬小满",
+        "img": "564.jpg"
+    },
+    {
+        "value": "meng tian",
+        "text": "蒙恬",
+        "img": "527.jpg"
+    },
+    {
+        "value": "meng ya",
+        "text": "蒙犽",
+        "img": "524.jpg"
+    },
+    {
+        "value": "menki",
+        "text": "梦奇",
+        "img": "198.jpg"
+    },
+    {
+        "value": "mi yue",
+        "text": "芈月",
+        "img": "121.jpg"
+    },
+    {
+        "value": "milady",
+        "text": "米莱狄",
+        "img": "504.jpg"
+    },
+    {
+        "value": "ming",
+        "text": "明世隐",
+        "img": "501.jpg"
+    },
+    {
+        "value": "mozi",
+        "text": "墨子",
+        "img": "108.jpg"
+    },
+    {
+        "value": "mulan",
+        "text": "花木兰",
+        "img": "154.jpg"
+    },
+    {
+        "value": "musashi",
+        "text": "宫本武藏",
+        "img": "130.jpg"
+    },
+    {
+        "value": "nakoruru",
+        "text": "娜可露露",
+        "img": "162.jpg"
+    },
+    {
+        "value": "nezha",
+        "text": "哪吒",
+        "img": "180.jpg"
+    },
+    {
+        "value": "nuwa",
+        "text": "女娲",
+        "img": "179.jpg"
+    },
+    {
+        "value": "pangu",
+        "text": "盘古",
+        "img": "529.jpg"
+    },
+    {
+        "value": "pei",
+        "text": "裴擒虎",
+        "img": "502.jpg"
+    },
+    {
+        "value": "sakeer",
+        "text": "桑启",
+        "img": "534.jpg"
+    },
+    {
+        "value": "shadow",
+        "text": "影",
+        "img": "558.jpg"
+    },
+    {
+        "value": "shangguan",
+        "text": "上官婉儿",
+        "img": "513.jpg"
+    },
+    {
+        "value": "shen mengxi",
+        "text": "沈梦溪",
+        "img": "312.jpg"
+    },
+    {
+        "value": "shi",
+        "text": "西施",
+        "img": "523.jpg"
+    },
+    {
+        "value": "shieldun",
+        "text": "盾山",
+        "img": "509.jpg"
+    },
+    {
+        "value": "shouyue",
+        "text": "百里守约",
+        "img": "196.jpg"
+    },
+    {
+        "value": "sikong zhen",
+        "text": "司空震",
+        "img": "537.jpg"
+    },
+    {
+        "value": "sima yi",
+        "text": "司马懿",
+        "img": "137.jpg"
+    },
+    {
+        "value": "su lie",
+        "text": "苏烈",
+        "img": "194.jpg"
+    },
+    {
+        "value": "sun bin",
+        "text": "孙膑",
+        "img": "118.jpg"
+    },
+    {
+        "value": "sun ce",
+        "text": "孙策",
+        "img": "510.jpg"
+    },
+    {
+        "value": "sun quan",
+        "text": "孙权",
+        "img": "151.jpg"
+    },
+    {
+        "value": "sun wukong",
+        "text": "孙悟空",
+        "img": "167.jpg"
+    },
+    {
+        "value": "taiyi zhenren",
+        "text": "太乙真人",
+        "img": "186.jpg"
+    },
+    {
+        "value": "toro (honor of kings)",
+        "text": "牛魔",
+        "img": "168.jpg"
+    },
+    {
+        "value": "ukyo tachibana",
+        "text": "橘右京",
+        "img": "163.jpg"
+    },
+    {
+        "value": "wang zhaojun",
+        "text": "王昭君",
+        "img": "152.jpg"
+    },
+    {
+        "value": "wu ze tian",
+        "text": "武则天",
+        "img": "136.jpg"
+    },
+    {
+        "value": "wuyan",
+        "text": "钟无艳",
+        "img": "117.jpg"
+    },
+    {
+        "value": "xiang yu",
+        "text": "项羽",
+        "img": "135.jpg"
+    },
+    {
+        "value": "xiao qiao",
+        "text": "小乔",
+        "img": "106.jpg"
+    },
+    {
+        "value": "xuance",
+        "text": "百里玄策",
+        "img": "195.jpg"
+    },
+    {
+        "value": "yang jian",
+        "text": "杨戬",
+        "img": "178.jpg"
+    },
+    {
+        "value": "yaria",
+        "text": "瑶",
+        "img": "505.jpg"
+    },
+    {
+        "value": "ying zheng",
+        "text": "嬴政",
+        "img": "110.jpg"
+    },
+    {
+        "value": "ying",
+        "text": "云缨",
+        "img": "538.jpg"
+    },
+    {
+        "value": "yixing",
+        "text": "弈星",
+        "img": "197.jpg"
+    },
+    {
+        "value": "yuan ge",
+        "text": "元歌",
+        "img": "125.jpg"
+    },
+    {
+        "value": "yuhuan",
+        "text": "杨玉环",
+        "img": "176.jpg"
+    },
+    {
+        "value": "zhang fei",
+        "text": "张飞",
+        "img": "171.jpg"
+    },
+    {
+        "value": "zhao huaizhen",
+        "text": "赵怀真",
+        "img": "544.jpg"
+    },
+    {
+        "value": "zhou yu",
+        "text": "周瑜",
+        "img": "124.jpg"
+    },
+    {
+        "value": "zhu bajie",
+        "text": "猪八戒",
+        "img": "511.jpg"
+    },
+    {
+        "value": "zhuangzi",
+        "text": "庄周",
+        "img": "113.jpg"
+    },
+    {
+        "value": "zilong",
+        "text": "赵云",
+        "img": "107.jpg"
+    },
+    {
+        "value": "ziya",
+        "text": "姜子牙",
+        "img": "148.jpg"
+    }
+]
