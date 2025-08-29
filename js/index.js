@@ -136,6 +136,22 @@ function getLength() {
     return el ? el.textContent.trim() : '';
 }
 
+function replaceInArray(array, oldValue, newValue) {
+    return array.map(item => item.trim() === oldValue.trim() ? newValue : item);
+}
+
+// 获取 Cookie
+function getCookie(name) {
+    let nameEQ = name + "=";
+    let ca = document.cookie.split(';');
+    for (let i = 0; i < ca.length; i++) {
+        let c = ca[i];
+        while (c.charAt(0) == ' ') c = c.substring(1, c.length);
+        if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
+    }
+    return null;
+}
+
 function getPrint() {
     let allBans = getBansPic();                     // 获取全部禁用的英雄对应的图片
     let allPickBySide = getPicksBySide();           // 获取全部选择英雄对应的图片
@@ -162,22 +178,35 @@ function getPrint() {
     pickright = mapWithDataArray(pickright);                    // 替换右侧选择英雄
     allBans.leftFileNames = mapWithDataArray(allBans.leftFileNames);      // 替换左侧禁用英雄
     allBans.rightFileNames = mapWithDataArray(allBans.rightFileNames);    // 替换右侧禁用英雄
+    
+    // 下次更新再降低耦合
+    if (getCookie('isChangeHero1') === 'true') {
+        pickleft = replaceInArray(pickleft, 'cao cao', 'fatih');
+        pickright = replaceInArray(pickright, 'cao cao', 'fatih');
+        allBans.leftFileNames = replaceInArray(allBans.leftFileNames, 'cao cao', 'fatih');
+        allBans.rightFileNames = replaceInArray(allBans.rightFileNames, 'cao cao', 'fatih');
+    }
 
+    if (getCookie('isChangeHero2') === 'true') {
+        pickleft = replaceInArray(pickleft, 'chano', 'genghis khan');
+        pickright = replaceInArray(pickright, 'chano', 'genghis khan');
+        allBans.leftFileNames = replaceInArray(allBans.leftFileNames, 'chano', 'genghis khan');
+        allBans.rightFileNames = replaceInArray(allBans.rightFileNames, 'chano', 'genghis khan');
+    }
+
+    // 判断初始默认选边
     if (getWhoChooseBlueside()) { getSide = true; } else { getSide = false; }
+
+    // 如果需要交换红蓝方，则取反
+    if (getCookie('isChangeHero1') === 'true') {
+        getSide = !getSide; winner == 1 ? winner = 2 : winner == 2 ? winner = 1 : winner = '';
+    }
     if (getSide) {
-        team1side = 'blue';
-        team2side = 'red';
-        t1h = pickleft;
-        t2h = pickright;
-        t1b = allBans.leftFileNames;
-        t2b = allBans.rightFileNames;
+        team1side = 'blue'; team2side = 'red'; t1h = pickleft; t2h = pickright;
+        t1b = allBans.leftFileNames; t2b = allBans.rightFileNames;
     } else {
-        team1side = 'red';
-        team2side = 'blue';
-        t1h = pickright;
-        t2h = pickleft;
-        t1b = allBans.rightFileNames;
-        t2b = allBans.leftFileNames;
+        team1side = 'red'; team2side = 'blue'; t1h = pickright; t2h = pickleft;
+        t1b = allBans.rightFileNames; t2b = allBans.leftFileNames;
     }
 
     let result = [];

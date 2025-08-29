@@ -1,5 +1,10 @@
 [
     {
+        "value": "",
+        "text": "Null",
+        "img": "hero-background.png"
+    },
+    {
         "value": "agudo",
         "text": "阿古朵",
         "img": "533.jpg"
@@ -40,6 +45,11 @@
         "img": "166.jpg"
     },
     {
+        "value": "ata",
+        "text": "阿塔",
+        "img": "556.jpg"
+    },
+    {
         "value": "athena",
         "text": "雅典娜",
         "img": "183.jpg"
@@ -58,6 +68,11 @@
         "value": "biron",
         "text": "狂铁",
         "img": "503.jpg"
+    },
+    {
+        "value": "butterfly",
+        "text": "刀锋宝贝",
+        "img": "646.jpg"
     },
     {
         "value": "cai yan",
@@ -338,6 +353,11 @@
         "value": "lu bu (honor of kings)",
         "text": "吕布",
         "img": "123.jpg"
+    },
+    {
+        "value": "luara",
+        "text": "卢雅娜",
+        "img": "547.jpg"
     },
     {
         "value": "luban no.7",
