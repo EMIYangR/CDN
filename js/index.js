@@ -178,7 +178,7 @@ function getPrint() {
     pickright = mapWithDataArray(pickright);                    // 替换右侧选择英雄
     allBans.leftFileNames = mapWithDataArray(allBans.leftFileNames);      // 替换左侧禁用英雄
     allBans.rightFileNames = mapWithDataArray(allBans.rightFileNames);    // 替换右侧禁用英雄
-    
+
     // 下次更新再降低耦合
     if (getCookie('isChangeHero1') === 'true') {
         pickleft = replaceInArray(pickleft, 'cao cao', 'fatih');
@@ -198,7 +198,7 @@ function getPrint() {
     if (getWhoChooseBlueside()) { getSide = true; } else { getSide = false; }
 
     // 如果需要交换红蓝方，则取反
-    if (getCookie('isChangeHero1') === 'true') {
+    if (getCookie('isChangeSide') === 'true') {
         getSide = !getSide; winner == 1 ? winner = 2 : winner == 2 ? winner = 1 : winner = '';
     }
     if (getSide) {

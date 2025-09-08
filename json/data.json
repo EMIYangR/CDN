@@ -845,13 +845,6 @@
         ]
     },
     {
-        "value": "shadow",
-        "text": "Shadow (影)",
-        "alias": [
-            "shadow"
-        ]
-    },
-    {
         "value": "shangguan",
         "text": "Shangguan (上官婉儿)",
         "alias": [
@@ -970,6 +963,14 @@
         "alias": [
             "ukyo tachibana",
             "ukyo"
+        ]
+    },
+    {
+        "value": "umbrosa",
+        "text": "Umbrosa (影)",
+        "alias": [
+            "shadow",
+            "umbrosa"
         ]
     },
     {

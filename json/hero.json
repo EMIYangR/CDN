@@ -470,11 +470,6 @@
         "img": "534.jpg"
     },
     {
-        "value": "shadow",
-        "text": "影",
-        "img": "558.jpg"
-    },
-    {
         "value": "shangguan",
         "text": "上官婉儿",
         "img": "513.jpg"
@@ -548,6 +543,11 @@
         "value": "ukyo tachibana",
         "text": "橘右京",
         "img": "163.jpg"
+    },
+    {
+        "value": "umbrosa",
+        "text": "影",
+        "img": "558.jpg"
     },
     {
         "value": "wang zhaojun",
