@@ -2,7 +2,7 @@ let dataArray = [];
 
 $(document).ready(function () {
     // 先加载数据
-    $.getJSON('https://cdn.jsdmirror.com/gh/EMIYangR/CDN/json/hero.json', function (response) {
+    $.getJSON('https://cdn.jsdmirror.com/gh/EMIYangR/CDN@latest/json/hero.json', function (response) {
         dataArray = response;
         getPrint(); // 调用getPrint函数以处理数据
         // 数据加载完成后，绑定点击事件
