@@ -5,6 +5,11 @@
         "img": "hero-background.png"
     },
     {
+        "value": "none",
+        "text": "",
+        "img": ""
+    },
+    {
         "value": "agudo",
         "text": "阿古朵",
         "img": "533.jpg"
@@ -193,6 +198,11 @@
         "value": "fang",
         "text": "李元芳",
         "img": "173.jpg"
+    },
+    {
+        "value": "fatih",
+        "text": "法提赫",
+        "img": ""
     },
     {
         "value": "feyd",
