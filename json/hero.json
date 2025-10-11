@@ -5,6 +5,11 @@
         "img": "hero-background.png"
     },
     {
+        "value": "none",
+        "text": "",
+        "img": ""
+    },
+    {
         "value": "agudo",
         "text": "阿古朵",
         "img": "533.jpg"
@@ -195,6 +200,11 @@
         "img": "173.jpg"
     },
     {
+        "value": "fatih",
+        "text": "法提赫",
+        "img": ""
+    },
+    {
         "value": "feyd",
         "text": "暃",
         "img": "542.jpg"
@@ -208,6 +218,11 @@
         "value": "flowborn (marksman)",
         "text": "元流之子(射手)",
         "img": "584.jpg"
+    },
+    {
+        "value": "flowborn (support)",
+        "text": "元流之子(辅助)",
+        "img": ""
     },
     {
         "value": "flowborn (tank)",

@@ -18,6 +18,7 @@
         "alias": [
             "flowborn (mage)",
             "flowborn mage",
+            "flw mage",
             "child of the primal flow mage",
             "child mage",
             "child of the primal flow (mage)"
@@ -32,6 +33,7 @@
             "flowborn archer",
             "flowborn (archer)",
             "flowborn mm",
+            "flw mm",
             "child archer",
             "child mm",
             "child of the primal flow (marksman)",
@@ -40,11 +42,21 @@
         ]
     },
     {
+        "value": "flowborn (support)",
+        "text": "Flowborn (Support) (元流之子(辅助))",
+        "alias": [
+            "flowborn (support)",
+            "flowborn support",
+            "flw support"
+        ]
+    },
+    {
         "value": "flowborn (tank)",
         "text": "Flowborn (Tank) (元流之子(坦克))",
         "alias": [
             "flowborn (tank)",
             "flowborn tank",
+            "flw tank",
             "child of the primal flow (tank)",
             "child of the primal flow tank",
             "child tank"
