@@ -1,19 +1,15 @@
 [
     {
-        "value": "",
-        "text": "Null"
-    },
-    {
         "value": "139",
         "text": "139 (Wan Tong)"
     },
     {
-        "value": "1dao",
-        "text": "1dao (Zhong Letian)"
+        "value": "1987",
+        "text": "1987 (Sun Jun)"
     },
     {
-        "value": "556",
-        "text": "556 (Wang Peidian)"
+        "value": "1dao",
+        "text": "1dao (Zhong Letian)"
     },
     {
         "value": "6.6",
@@ -26,6 +22,10 @@
     {
         "value": "7Kill",
         "text": "7Kill (Deng Lei)"
+    },
+    {
+        "value": "ACC",
+        "text": "ACC (Mu Yikai)"
     },
     {
         "value": "AGuai",
@@ -46,6 +46,10 @@
     {
         "value": "Ache",
         "text": "Ache (Chen Linqin)"
+    },
+    {
+        "value": "Adan",
+        "text": "Adan (Li Shuo)"
     },
     {
         "value": "Adou",
@@ -72,6 +76,10 @@
         "text": "An (You Yang)"
     },
     {
+        "value": "AnLan",
+        "text": "AnLan (Xu Hongyang)"
+    },
+    {
         "value": "AnQi",
         "text": "AnQi (Dai Ziqiang)"
     },
@@ -92,12 +100,20 @@
         "text": "Aoshen (Shi Ao)"
     },
     {
+        "value": "Arashi",
+        "text": "Arashi"
+    },
+    {
+        "value": "Ash",
+        "text": "Ash"
+    },
+    {
         "value": "Autumn",
         "text": "Autumn (Kang Zuowei)"
     },
     {
         "value": "Awen",
-        "text": "Awen ( (Wen Lingjun)"
+        "text": "Awen (Wen Lingjun)"
     },
     {
         "value": "Axing",
@@ -120,6 +136,14 @@
         "text": "BaiYi (Liu Fangkai)"
     },
     {
+        "value": "BaiZhi",
+        "text": "BaiZhi (Deng Xinye)"
+    },
+    {
+        "value": "Baiyu",
+        "text": "Baiyu (Ge Yihe)"
+    },
+    {
         "value": "Beiying",
         "text": "Beiying (Tang Rui)"
     },
@@ -136,10 +160,6 @@
         "text": "BingC (Li Xiaolong)"
     },
     {
-        "value": "BlackSir",
-        "text": "BlackSir (Song Zhengming)"
-    },
-    {
         "value": "Cbuqi",
         "text": "BuQi (Peng Zhi)"
     },
@@ -148,12 +168,20 @@
         "text": "BuRan (Ye Kang)"
     },
     {
+        "value": "Bxiaosheng",
+        "text": "Bxiaosheng (Wang Jun)"
+    },
+    {
         "value": "BaiShou",
         "text": "Byshow (Fang Qingyou)"
     },
     {
         "value": "CChen",
         "text": "CChen (Bo Chenhe)"
+    },
+    {
+        "value": "COLA",
+        "text": "COLA (Li Yongzhao)"
     },
     {
         "value": "Cat (Chinese Player)",
@@ -176,8 +204,20 @@
         "text": "ChenFeng (Fan Shouqian)"
     },
     {
+        "value": "ChenHuan",
+        "text": "ChenHuan (Zhang Chen)"
+    },
+    {
         "value": "ChenYang",
         "text": "ChenYang (Wang Zhicheng)"
+    },
+    {
+        "value": "ChengCheng",
+        "text": "ChengCheng (Cheng Hao)"
+    },
+    {
+        "value": "ChongYang",
+        "text": "ChongYang (Fan Yunbo)"
     },
     {
         "value": "Chuan",
@@ -190,6 +230,10 @@
     {
         "value": "Chuxin",
         "text": "Chuxin (Zhang Jiacheng)"
+    },
+    {
+        "value": "Clean",
+        "text": "Clean (Wu Botong)"
     },
     {
         "value": "Crime",
@@ -212,7 +256,7 @@
         "text": "DaShuai (Meng Jiajun)"
     },
     {
-        "value": "ZhaLie",
+        "value": "DaoDao",
         "text": "DaoDao (Qian Jiale)"
     },
     {
@@ -220,16 +264,12 @@
         "text": "DaoZai (Yang Kaibo)"
     },
     {
-        "value": "Dave",
-        "text": "Dave (Pengxiao Mao)"
-    },
-    {
         "value": "Defu",
         "text": "Defu (Hu Mingchao)"
     },
     {
-        "value": "Dnan",
-        "text": "Dnan (Lin Zhiqian)"
+        "value": "556",
+        "text": "Dian (Wang Peidian)"
     },
     {
         "value": "Dogchen",
@@ -268,11 +308,15 @@
         "text": "FatPier (Han Shuai)"
     },
     {
+        "value": "Feng (Jin Bingbing)",
+        "text": "Feng (Jin Bingbing)"
+    },
+    {
         "value": "FengJie",
         "text": "FengJie (Jiang Longhui)"
     },
     {
-        "value": "Fx",
+        "value": "FengXiao",
         "text": "FengXiao (Yu Xiangren)"
     },
     {
@@ -292,10 +336,6 @@
         "text": "Fly (Peng Yunfei)"
     },
     {
-        "value": "AGai",
-        "text": "GAI (Yang Tingpu)"
-    },
-    {
         "value": "GGBOND",
         "text": "GGBOND (Liu Renhao)"
     },
@@ -304,8 +344,8 @@
         "text": "Giao (Sun Maorong)"
     },
     {
-        "value": "Glucose",
-        "text": "Glucose (Yang Xin)"
+        "value": "Gin (Luo Xianjun)",
+        "text": "Gin (Luo Xianjun)"
     },
     {
         "value": "GuLi",
@@ -326,6 +366,14 @@
     {
         "value": "GuoGuo",
         "text": "GuoGuo (Li Kang)"
+    },
+    {
+        "value": "Hao (Wang Tinghao)",
+        "text": "Hao (Wang Tinghao)"
+    },
+    {
+        "value": "HeCi",
+        "text": "HeCi (Jiang Lijie)"
     },
     {
         "value": "Heine",
@@ -352,6 +400,10 @@
         "text": "HuaHai (Luo Siyuan)"
     },
     {
+        "value": "HuaHua",
+        "text": "HuaHua (Ding Jinghao)"
+    },
+    {
         "value": "HuaJuan",
         "text": "HuaJuan (Wu Yutao)"
     },
@@ -362,6 +414,10 @@
     {
         "value": "Huayun",
         "text": "HuaYun (Zhang Kaifeng)"
+    },
+    {
+        "value": "HuaYuan",
+        "text": "Huayen (Tan Jinwei)"
     },
     {
         "value": "SheepHui",
@@ -384,12 +440,20 @@
         "text": "JiGuang (Zhou Wenqiang)"
     },
     {
+        "value": "JiaMu",
+        "text": "JiaMu (Xiong Hao)"
+    },
+    {
         "value": "JiaXin",
         "text": "JiaXin (Li Jiaxu)"
     },
     {
         "value": "Jiangcheng",
         "text": "JiangCheng (Ke Jiangnan)"
+    },
+    {
+        "value": "JiaoJiao",
+        "text": "JiaoJiao (Zhang Lianguang)"
     },
     {
         "value": "Jichi",
@@ -405,7 +469,11 @@
     },
     {
         "value": "Jingfeng",
-        "text": "JingFeng ( (Zhao Rui)"
+        "text": "JingFeng (Zhao Rui)"
+    },
+    {
+        "value": "Jingwan",
+        "text": "Jingwan (Yang Zhongwei)"
     },
     {
         "value": "XiaoJiu",
@@ -428,7 +496,7 @@
         "text": "JiuHen (Ma Ziming)"
     },
     {
-        "value": "JiuK",
+        "value": "JiuKu",
         "text": "JiuKu (Wang Tao)"
     },
     {
@@ -452,6 +520,10 @@
         "text": "Jiushu (Zhang Jiahao)"
     },
     {
+        "value": "Jiuyu",
+        "text": "Jiuyu (Zhang Fengmao)"
+    },
+    {
         "value": "JueKing",
         "text": "JueKing (Zhou Wenxie)"
     },
@@ -472,6 +544,10 @@
         "text": "Jyi (Liao Youxia)"
     },
     {
+        "value": "Kanyang",
+        "text": "Kanyang (Zheng Qingwei)"
+    },
+    {
         "value": "Kenshin",
         "text": "Kenshin (Wu Xian)"
     },
@@ -482,6 +558,10 @@
     {
         "value": "Ko",
         "text": "Ko (Zheng Yang)"
+    },
+    {
+        "value": "ZhuoKong",
+        "text": "Kong (Ang Xinhao)"
     },
     {
         "value": "KongJue",
@@ -500,6 +580,10 @@
         "text": "LMeng (Hu Zhihang)"
     },
     {
+        "value": "LYU",
+        "text": "LYU (Lv Wenbo)"
+    },
+    {
         "value": "LanAn",
         "text": "LanAn (Li Zhuoyang)"
     },
@@ -508,7 +592,15 @@
         "text": "LanFeng (Bai Yunfei)"
     },
     {
-        "value": "XiaoMing (Li Minjin)",
+        "value": "LanFeng (Zhao Enlei)",
+        "text": "LanFeng (Zhao Enlei)"
+    },
+    {
+        "value": "LanJue",
+        "text": "LanJue (Sun Xiao)"
+    },
+    {
+        "value": "LanL",
         "text": "LanL (Li Minjin)"
     },
     {
@@ -524,8 +616,20 @@
         "text": "Lanmao (Huang Zhihong)"
     },
     {
+        "value": "Lanxi",
+        "text": "Lanxi (Ding Minghe)"
+    },
+    {
         "value": "LaoShuai",
         "text": "LaoShuai (Zhang Yuchen)"
+    },
+    {
+        "value": "Legend",
+        "text": "Legend"
+    },
+    {
+        "value": "LengXuan",
+        "text": "LengXuan (Lin Zhiqian)"
     },
     {
         "value": "LiLuo (Sun Longqing)",
@@ -572,8 +676,20 @@
         "text": "Linfeng (Lin Hongwei)"
     },
     {
+        "value": "LingXiao",
+        "text": "LingXiao (Xue Jiawei)"
+    },
+    {
+        "value": "Linyi",
+        "text": "Linyi (Hu Shuai)"
+    },
+    {
         "value": "LiuLang",
         "text": "LiuLang (Zhang Heng)"
+    },
+    {
+        "value": "LiuXing",
+        "text": "LiuXing (Li Xing)"
     },
     {
         "value": "Lucky",
@@ -588,6 +704,10 @@
         "text": "LuoBo (Chen Jiahong)"
     },
     {
+        "value": "LuoChen",
+        "text": "LuoChen (Zhang Shijie)"
+    },
+    {
         "value": "LuoKong",
         "text": "LuoKong (Zhou Xirui)"
     },
@@ -596,7 +716,7 @@
         "text": "Ly (Li Wang)"
     },
     {
-        "value": "YiMing",
+        "value": "MFeng",
         "text": "MFeng (Ye Ziyang)"
     },
     {
@@ -628,8 +748,16 @@
         "text": "MengXi (Li Wenbao)"
     },
     {
+        "value": "MengYuan",
+        "text": "MengYuan (Ding Rufeng)"
+    },
+    {
+        "value": "Mengke",
+        "text": "Mengke (Wang Kunpeng)"
+    },
+    {
         "value": "Mf",
-        "text": "MfVSTAR (Li Jiahao)"
+        "text": "Mf (Li Jiahao)"
     },
     {
         "value": "Ming",
@@ -644,6 +772,10 @@
         "text": "MingHuai (Zhao Lintao)"
     },
     {
+        "value": "MingMing (Zhang Hengming)",
+        "text": "MingMing (Zhang Hengming)"
+    },
+    {
         "value": "MingYang",
         "text": "MingYang (Chen Mingyang)"
     },
@@ -656,8 +788,8 @@
         "text": "Mitu (Xiang Pengzhong)"
     },
     {
-        "value": "MengLan",
-        "text": "Mlan (Peng Junlan)"
+        "value": "MoKe",
+        "text": "MoKe (Wen Ke)"
     },
     {
         "value": "MoLeng",
@@ -676,6 +808,10 @@
         "text": "Mojo (Hu Linye)"
     },
     {
+        "value": "MengLan",
+        "text": "MoonLan (Peng Junlan)"
+    },
+    {
         "value": "Yuese",
         "text": "Moonlight (Liu Tao)"
     },
@@ -684,8 +820,20 @@
         "text": "Mssss (Ni Tianbo)"
     },
     {
+        "value": "MuLin",
+        "text": "MuLin (Du Conggao)"
+    },
+    {
         "value": "Msir",
         "text": "MuSe (Jiang Boyuan)"
+    },
+    {
+        "value": "Muchen",
+        "text": "Muchen (Angelo Zheng)"
+    },
+    {
+        "value": "NanFeng",
+        "text": "NanFeng (Li Liang)"
     },
     {
         "value": "NingZhi",
@@ -704,6 +852,10 @@
         "text": "NuanYang (Lin Heng)"
     },
     {
+        "value": "NuoMi",
+        "text": "NuoMi (Mi Nuoru)"
+    },
+    {
         "value": "NuoYan",
         "text": "NuoYan (Guo Guixin)"
     },
@@ -716,7 +868,7 @@
         "text": "OoZ (Zhang Chi)"
     },
     {
-        "value": "ORANGE",
+        "value": "Orange",
         "text": "Orange (Huang Shiyu)"
     },
     {
@@ -737,26 +889,26 @@
     },
     {
         "value": "PeiEn",
-        "text": "Peien (Wen Shuai)"
+        "text": "PeiEn (Wen Shuai)"
     },
     {
         "value": "PengP",
         "text": "Peng (Lu Jiapeng)"
     },
     {
-        "value": "QingLang (Yang Xin)",
-        "text": "QINGLANG (Yang Xin)"
+        "value": "Pineapple",
+        "text": "Pineapple (Di Jiaxiang)"
+    },
+    {
+        "value": "Play",
+        "text": "Play (Wang Shuangjiang)"
     },
     {
         "value": "QY",
-        "text": "QY (Lyu Hangfan)"
+        "text": "QY (Lu Hangfan)"
     },
     {
-        "value": "QingF",
-        "text": "Qfeng (Du Zhou)"
-    },
-    {
-        "value": "JiuN",
+        "value": "QiNian",
         "text": "QiNian (Wen Zheng)"
     },
     {
@@ -780,20 +932,32 @@
         "text": "QingFan (Liu Huan)"
     },
     {
+        "value": "QingLang (Yang Xin)",
+        "text": "QingLang (Yang Xin)"
+    },
+    {
         "value": "QingQ",
         "text": "QingQing (Wu Jinxiang)"
     },
     {
-        "value": "QingRong",
-        "text": "QingRong (Huang Yaoqin)"
+        "value": "QingQiu",
+        "text": "QingQiu (Kong Jiawei)"
     },
     {
-        "value": "QingYu",
-        "text": "QingYu (Xie Xinzhen)"
+        "value": "QingTian (Zou Mingwei)",
+        "text": "QingTian (Zou Mingwei)"
+    },
+    {
+        "value": "Qinghuai",
+        "text": "Qinghuai (Zhao Jun)"
     },
     {
         "value": "QiuMo",
         "text": "QiuMo (Zhao Wenjia)"
+    },
+    {
+        "value": "QiuYuan",
+        "text": "QiuYuan (Wu Xingyuan)"
     },
     {
         "value": "Qy",
@@ -808,8 +972,24 @@
         "text": "RainMan (Zheng Zongpeng)"
     },
     {
+        "value": "RanAn",
+        "text": "RanAn (Chen Zijie)"
+    },
+    {
+        "value": "Redeem",
+        "text": "Redeem (Chen Kai)"
+    },
+    {
         "value": "Roc",
         "text": "Roc (Zhang Peng)"
+    },
+    {
+        "value": "QingRong",
+        "text": "Rong (Huang Yaoqin)"
+    },
+    {
+        "value": "Rose",
+        "text": "Rose (Gao Pengfei)"
     },
     {
         "value": "STAR",
@@ -828,8 +1008,16 @@
         "text": "SanZang (Xu Zheng)"
     },
     {
+        "value": "Sansui",
+        "text": "Sansui (Zhang Yang)"
+    },
+    {
         "value": "Jiuyue",
         "text": "Sep. (Zhang Yitian)"
+    },
+    {
+        "value": "ShanGuang",
+        "text": "ShanGuang (Wang Mengxuan)"
     },
     {
         "value": "ShangXian",
@@ -838,6 +1026,10 @@
     {
         "value": "Shanks",
         "text": "Shanks (Giovanni Song)"
+    },
+    {
+        "value": "ShenDian",
+        "text": "ShenDian (Zhang Jiajun)"
     },
     {
         "value": "ShenRen",
@@ -852,6 +1044,10 @@
         "text": "ShiYue (Yao Jiapeng)"
     },
     {
+        "value": "ShuYin",
+        "text": "ShuYin (Chen Yulin)"
+    },
+    {
         "value": "SiBao",
         "text": "SiBao (Liu Zhihua)"
     },
@@ -864,16 +1060,16 @@
         "text": "Snipe (Huang Feixiang)"
     },
     {
-        "value": "Snow",
-        "text": "Snow (Liu Wenbin)"
-    },
-    {
         "value": "Song",
         "text": "Song (Tang Junwei)"
     },
     {
         "value": "Sumo",
         "text": "SuMo (Guo Zhipeng)"
+    },
+    {
+        "value": "SuSu",
+        "text": "SuSu (Xu Yiyun)"
     },
     {
         "value": "Suisui",
@@ -888,12 +1084,32 @@
         "text": "TangTang (Tang Lianjie)"
     },
     {
+        "value": "Tao (Ying Zetao)",
+        "text": "Tao (Ying Zetao)"
+    },
+    {
+        "value": "Tgod",
+        "text": "Tgod (Li Tianshun)"
+    },
+    {
         "value": "TiGer",
         "text": "TiGer (Chen Hanfei)"
     },
     {
+        "value": "TianTian",
+        "text": "TianTian (Zhou Tianyu)"
+    },
+    {
         "value": "TianZhen",
         "text": "TianZhen (Chen Peihuang)"
+    },
+    {
+        "value": "TingYue",
+        "text": "TingYue (Wu Zuo)"
+    },
+    {
+        "value": "WeiWei (Xu Siwei)",
+        "text": "VV (Xu Siwei)"
     },
     {
         "value": "WanMeng",
@@ -921,11 +1137,15 @@
     },
     {
         "value": "WeiYin",
-        "text": "WeiYin (Lin Weiye)"
+        "text": "WeiYin (Gong Yuqiang)"
     },
     {
         "value": "Weilin",
         "text": "Weilin (Dai Xinlin)"
+    },
+    {
+        "value": "Wen",
+        "text": "Wen (Guan Renhao)"
     },
     {
         "value": "WenXu",
@@ -936,19 +1156,23 @@
         "text": "Wendy (Wang Jinwen)"
     },
     {
+        "value": "QingYu",
+        "text": "Whisper (Xie Xinzhen)"
+    },
+    {
         "value": "White (Chinese player)",
         "text": "White (Zhou Yutao)"
+    },
+    {
+        "value": "White (Chinese Player)",
+        "text": "White (Huang Ziyang)"
     },
     {
         "value": "WuHuan",
         "text": "WuHuan (Zhu Jun)"
     },
     {
-        "value": "WuMing",
-        "text": "WuMing (Zhang Cong)"
-    },
-    {
-        "value": "Wushuang",
+        "value": "WuShuang",
         "text": "WuShuang (Hu Jiarong)"
     },
     {
@@ -970,6 +1194,10 @@
     {
         "value": "XZ",
         "text": "XZ (Lu Chunfeng)"
+    },
+    {
+        "value": "XiHe",
+        "text": "XiHe (Zhao Menghao)"
     },
     {
         "value": "XiYu",
@@ -1000,6 +1228,10 @@
         "text": "XiaoDun (Wang Hao)"
     },
     {
+        "value": "XiaoGu",
+        "text": "XiaoGu (Peng Fujian)"
+    },
+    {
         "value": "XiaoHan (Zhong Zhihan)",
         "text": "XiaoHan (Zhong Zhihan)"
     },
@@ -1008,20 +1240,60 @@
         "text": "XiaoHan (Xiao Weihan)"
     },
     {
-        "value": "Yang Wenming",
+        "value": "XiaoJiu (Yang Wenming)",
         "text": "XiaoJiu (Yang Wenming)"
+    },
+    {
+        "value": "XiaoKun",
+        "text": "XiaoKun (Zhang Wenghao)"
+    },
+    {
+        "value": "XiaoLe",
+        "text": "XiaoLe (Liu Xinyu)"
+    },
+    {
+        "value": "XiaoLou",
+        "text": "XiaoLou (Shen Yuxuan)"
+    },
+    {
+        "value": "XiaoMing (Li Shuming)",
+        "text": "XiaoMing (Li Shuming)"
+    },
+    {
+        "value": "XiaoNian (Zhang Shunjie)",
+        "text": "XiaoNian (Zhang Shunjie)"
     },
     {
         "value": "XiaoPeng",
         "text": "XiaoPeng (Wang Haipeng)"
     },
     {
+        "value": "XiaoQi (Li Jiahui)",
+        "text": "XiaoQi (Li Jiahui)"
+    },
+    {
+        "value": "XiaoShang",
+        "text": "XiaoShang (Ye Jiawei)"
+    },
+    {
+        "value": "XiaoShi",
+        "text": "XiaoShi (Huang Wenjie)"
+    },
+    {
         "value": "XiaoTong",
         "text": "XiaoTong (Zhao Hongzhi)"
     },
     {
+        "value": "XiaoWai",
+        "text": "XiaoWai (Yu Hao)"
+    },
+    {
         "value": "XiaoWei",
         "text": "XiaoWei (Wang Jiawei)"
+    },
+    {
+        "value": "XiaoXin (Ma Jiaxin)",
+        "text": "XiaoXin (Ma Jiaxin)"
     },
     {
         "value": "XiaoXing",
@@ -1034,6 +1306,10 @@
     {
         "value": "XiaoXuan",
         "text": "XiaoXuan (Wang Sheng)"
+    },
+    {
+        "value": "XiaoXue",
+        "text": "XiaoXue (Yue Caiying)"
     },
     {
         "value": "XiaoYe",
@@ -1052,12 +1328,20 @@
         "text": "XiaoYing (Tang Jiajie)"
     },
     {
-        "value": "Liu Jiayu",
+        "value": "XiaoYou",
+        "text": "XiaoYou (Qin Ziheng)"
+    },
+    {
+        "value": "XiaoYu (Liu Jiayu)",
         "text": "XiaoYu (Liu Jiayu)"
     },
     {
         "value": "XiaoYu (Zhou Yu)",
         "text": "XiaoYu (Zhou Yu)"
+    },
+    {
+        "value": "XZai",
+        "text": "XiaoZai (Xia Zhaoxun)"
     },
     {
         "value": "XiaoZe",
@@ -1084,8 +1368,12 @@
         "text": "Xiaonian (Wu Shangwei)"
     },
     {
-        "value": "XiHe",
-        "text": "Xihe (Zhao Menghao)"
+        "value": "Xiaoqing",
+        "text": "Xiaoqing (Luo Zijian)"
+    },
+    {
+        "value": "Xin (Gou Hongxin)",
+        "text": "Xin (Gou Hongxin)"
     },
     {
         "value": "XinYu",
@@ -1100,6 +1388,10 @@
         "text": "XingC (Kang Lunhan)"
     },
     {
+        "value": "XingChen",
+        "text": "XingChen (Liu Hangxu)"
+    },
+    {
         "value": "XingHen",
         "text": "XingHen (Wang Keqin)"
     },
@@ -1112,16 +1404,32 @@
         "text": "XingYu (Li Yuhao)"
     },
     {
+        "value": "XingYun",
+        "text": "XingYun (Jing Wenhao)"
+    },
+    {
         "value": "XiuDou",
-        "text": "Xiudou (Pu Yang)"
+        "text": "XiuDou (Pu Yang)"
     },
     {
         "value": "XuanYing",
         "text": "Xshadow (Chen Jiaji)"
     },
     {
+        "value": "XuXu",
+        "text": "XuXu (Tao Chenxu)"
+    },
+    {
         "value": "XuanRan",
         "text": "XuanRan (Liu Ming)"
+    },
+    {
+        "value": "Xuanze",
+        "text": "Xuanze (Sun Xiaoqiang)"
+    },
+    {
+        "value": "Xue",
+        "text": "Xue (Yao Weixiang)"
     },
     {
         "value": "YANG",
@@ -1152,7 +1460,7 @@
         "text": "YiNan (Huang Qiushen)"
     },
     {
-        "value": "Yinuo",
+        "value": "YiNuo",
         "text": "YiNuo (Xu Bicheng)"
     },
     {
@@ -1170,6 +1478,10 @@
     {
         "value": "Yilian",
         "text": "Yilian (Wang Jiahao)"
+    },
+    {
+        "value": "YingHua",
+        "text": "YingHua (Lin Zihan)"
     },
     {
         "value": "Yisheng",
@@ -1198,6 +1510,10 @@
     {
         "value": "YuKong",
         "text": "YuKong (Yang Wenyue)"
+    },
+    {
+        "value": "YuLong",
+        "text": "YuLong (Fang Longhui)"
     },
     {
         "value": "YuShang",
@@ -1264,6 +1580,14 @@
         "text": "ZiYang (Xiang Yang)"
     },
     {
+        "value": "ZiYuan",
+        "text": "ZiYuan (Hou Weiguo)"
+    },
+    {
+        "value": "Zidu",
+        "text": "Zidu (Sun Qiang)"
+    },
+    {
         "value": "Zijin",
         "text": "Zijin (Ren Weifeng)"
     },
@@ -1280,6 +1604,14 @@
         "text": "boBo"
     },
     {
+        "value": "JHao",
+        "text": "jHao (He Weijia)"
+    },
+    {
+        "value": "Keke",
+        "text": "keke (Daniele Ke)"
+    },
+    {
         "value": "S686",
         "text": "s686 (Zou Junbo)"
     },
@@ -1288,7 +1620,7 @@
         "text": "tete (Yang Xuan)"
     },
     {
-        "value": "Guyan",
+        "value": "Up",
         "text": "up (Xia Song)"
     },
     {
@@ -1296,12 +1628,12 @@
         "text": "xDo (Gu Weixiong)"
     },
     {
-        "value": "XZai",
-        "text": "xZai (Xia Zhaoxun)"
+        "value": "Yu (Xie Shangyu)",
+        "text": "yu (Xie Shangyu)"
     },
     {
-        "value": "Yu",
-        "text": "yu (Xie Shangyu)"
+        "value": "1064",
+        "text": "1064 (Zhou Jiayuan)"
     },
     {
         "value": "15sui",
@@ -1337,19 +1669,35 @@
     },
     {
         "value": "Andy (Zhang Jie)",
-        "text": "Andy (Zhang jie)"
+        "text": "Andy (Zhang Jie)"
     },
     {
         "value": "Awoke",
         "text": "Awoke (Ye Liang)"
     },
     {
+        "value": "Bai",
+        "text": "Bai (Yang Zongwei)"
+    },
+    {
+        "value": "Bai Le",
+        "text": "Bai Le (Yang Shijia)"
+    },
+    {
         "value": "BaiLong",
         "text": "BaiLong (Wang Haojie)"
     },
     {
+        "value": "BaiShu",
+        "text": "BaiShu (Bai Qingyan)"
+    },
+    {
         "value": "BaiYe",
         "text": "BaiYe (Zhang Linhai)"
+    },
+    {
+        "value": "BangBang",
+        "text": "BangBang (Guo Yubin)"
     },
     {
         "value": "Bao",
@@ -1362,6 +1710,14 @@
     {
         "value": "Evil",
         "text": "BeiDao (Wang Dong)"
+    },
+    {
+        "value": "BeiGang",
+        "text": "BeiGang (Zhu Yuanhang)"
+    },
+    {
+        "value": "BlackSir",
+        "text": "BlackSir (Song Zhengming)"
     },
     {
         "value": "CarryMyTeam",
@@ -1400,8 +1756,16 @@
         "text": "ColdGrass (Lin Hang)"
     },
     {
+        "value": "Da Lu",
+        "text": "Da Lu"
+    },
+    {
         "value": "DaDa (Chinese coach)",
         "text": "DaDa (Zhang Min)"
+    },
+    {
+        "value": "DaHe",
+        "text": "DaHe (Yao Dachuan)"
     },
     {
         "value": "Dgc",
@@ -1412,6 +1776,10 @@
         "text": "DianDian (Wu Liang)"
     },
     {
+        "value": "DingDian",
+        "text": "DingDian (Lai Junhong)"
+    },
+    {
         "value": "Djie",
         "text": "Djie (Xie Zhencheng)"
     },
@@ -1420,8 +1788,24 @@
         "text": "FengJun (Song Liyang)"
     },
     {
+        "value": "FuXiao",
+        "text": "FuXiao (Liu Fusheng)"
+    },
+    {
+        "value": "AGai",
+        "text": "Gai (Yang Tingpu)"
+    },
+    {
         "value": "Gemini",
         "text": "Gemini (Guo Jiayi)"
+    },
+    {
+        "value": "Gini",
+        "text": "Gini (Fang Jie)"
+    },
+    {
+        "value": "Glucose",
+        "text": "Glucose (Yang Xin)"
     },
     {
         "value": "GodLike",
@@ -1448,6 +1832,10 @@
         "text": "Hai Luo"
     },
     {
+        "value": "HaoQi",
+        "text": "HaoQi (Zhou Haoqi)"
+    },
+    {
         "value": "HuaLou",
         "text": "HuaLou (Yang Peng)"
     },
@@ -1460,12 +1848,24 @@
         "text": "Ice (Tang Tian)"
     },
     {
+        "value": "Jia Hao",
+        "text": "Jia Hao"
+    },
+    {
         "value": "Soundless",
         "text": "JingMi (Chen Haotian)"
     },
     {
+        "value": "Jiu Tian",
+        "text": "Jiu Tian"
+    },
+    {
         "value": "JiuZhe",
         "text": "JiuZhe (Hu Zhuanghao)"
+    },
+    {
+        "value": "JuJu",
+        "text": "JuJu (Guo Jiahui)"
     },
     {
         "value": "Kai (Chinese coach)",
@@ -1492,6 +1892,10 @@
         "text": "Li Jiu (Li Ang)"
     },
     {
+        "value": "Li Ren",
+        "text": "Li Ren (Sun Liren)"
+    },
+    {
         "value": "LiLuo (Chinese Player)",
         "text": "LiLuo (Ma Xin)"
     },
@@ -1508,6 +1912,18 @@
         "text": "Lingdou (Wu Xinliang)"
     },
     {
+        "value": "Link",
+        "text": "Link (Wan Zhou)"
+    },
+    {
+        "value": "Lion",
+        "text": "Lion (Liu Wei)"
+    },
+    {
+        "value": "LiuBing",
+        "text": "LiuBing (Lei Ziye)"
+    },
+    {
         "value": "Lovecd",
         "text": "LoveCD (Li Junfeng)"
     },
@@ -1516,8 +1932,16 @@
         "text": "Lucifer (Fu Ziang)"
     },
     {
+        "value": "Luo Luo",
+        "text": "Luo Luo (Bi Jingbin)"
+    },
+    {
         "value": "Luomu",
         "text": "Luomu (Zheng Shengjie)"
+    },
+    {
+        "value": "M",
+        "text": "M (Pu Hao)"
     },
     {
         "value": "Mc",
@@ -1525,7 +1949,7 @@
     },
     {
         "value": "Mei Meng",
-        "text": "Mei Meng (Ming Ziduan)"
+        "text": "Mei Meng (Min Ziduan)"
     },
     {
         "value": "Mercury",
@@ -1540,8 +1964,20 @@
         "text": "MingMing (Chen Boyan)"
     },
     {
+        "value": "MoRan",
+        "text": "MoRan (Zhang Jiali)"
+    },
+    {
+        "value": "Moon (Chinese coach)",
+        "text": "Moon (Liu Peng)"
+    },
+    {
         "value": "Mopo",
-        "text": "Mopo"
+        "text": "Mopo (Fan Shuaipeng)"
+    },
+    {
+        "value": "NanCi",
+        "text": "NanCi (Feng Xiang)"
     },
     {
         "value": "NccCc",
@@ -1552,8 +1988,16 @@
         "text": "NiuNiu (Gu Wangdi)"
     },
     {
+        "value": "Orange (Chen Yi)",
+        "text": "Orange (Chen Yi)"
+    },
+    {
         "value": "PangP",
         "text": "PangP (Tan Bin)"
+    },
+    {
+        "value": "PeiPei",
+        "text": "PeiPei (Li Peicheng)"
     },
     {
         "value": "PigHeng",
@@ -1566,6 +2010,14 @@
     {
         "value": "Pomi",
         "text": "Pomi (Yang Chao)"
+    },
+    {
+        "value": "Posui",
+        "text": "Posui (Li Yijie)"
+    },
+    {
+        "value": "QingF",
+        "text": "Qfeng (Du Zhou)"
     },
     {
         "value": "Qi Qi",
@@ -1608,6 +2060,10 @@
         "text": "Sherry (Chen Fanghui)"
     },
     {
+        "value": "Shi Shi",
+        "text": "Shi Shi (Liu Qiqi)"
+    },
+    {
         "value": "Shisan",
         "text": "ShiSan (Wang Zhi)"
     },
@@ -1616,8 +2072,12 @@
         "text": "Smile (Wang Wenxin)"
     },
     {
-        "value": "JuJu",
-        "text": "Sssz (Guo Jiahui)"
+        "value": "Snow",
+        "text": "Snow (Liu Wenbin)"
+    },
+    {
+        "value": "X7",
+        "text": "Sova (Deng Qiyuan)"
     },
     {
         "value": "StarShark",
@@ -1632,6 +2092,10 @@
         "text": "SuHongHong (Su Hongbo)"
     },
     {
+        "value": "TG",
+        "text": "TG (Li Tao)"
+    },
+    {
         "value": "Tao",
         "text": "Tao (Zhang Zhetao)"
     },
@@ -1642,6 +2106,10 @@
     {
         "value": "Tommy",
         "text": "Tommy (Fan Tianyi)"
+    },
+    {
+        "value": "Vc",
+        "text": "Vc (Wu Xiangjie)"
     },
     {
         "value": "Vison",
@@ -1664,6 +2132,10 @@
         "text": "Wish (Zhu Siyuan)"
     },
     {
+        "value": "WuMing",
+        "text": "WuMing (Zhang Cong)"
+    },
+    {
         "value": "WuWang",
         "text": "WuWang (Li Siyuan)"
     },
@@ -1676,12 +2148,12 @@
         "text": "Wuhen (Zhu Haoyun)"
     },
     {
-        "value": "X7",
-        "text": "X7 (Deng Qiyuan)"
-    },
-    {
         "value": "XiShuai",
         "text": "XiShuai (Deng Qian)"
+    },
+    {
+        "value": "XiaOt",
+        "text": "XiaOt (Sun Liwei)"
     },
     {
         "value": "XiangJun",
@@ -1700,6 +2172,10 @@
         "text": "XiaoFeng (Xiong Yunpeng)"
     },
     {
+        "value": "XiaoZhu (Zhu Quanfeng)",
+        "text": "XiaoZhu (Zhu Quanfeng)"
+    },
+    {
         "value": "Xiaojingang",
         "text": "Xiaojingang (Wu Xin)"
     },
@@ -1716,12 +2192,24 @@
         "text": "XingTian (Sun Xiang)"
     },
     {
+        "value": "Xs",
+        "text": "Xs (Feng Sishuo)"
+    },
+    {
+        "value": "LaoXu",
+        "text": "Xu (Xu Ruoran)"
+    },
+    {
         "value": "XuanKai",
         "text": "XuanKai (Chen Yukai)"
     },
     {
         "value": "Xue Ying",
         "text": "Xue Ying (Sun Xueying)"
+    },
+    {
+        "value": "XueJian",
+        "text": "XueJian (Du Haoxian)"
     },
     {
         "value": "YG",
@@ -1736,7 +2224,7 @@
         "text": "YaoYao (Yao Yao)"
     },
     {
-        "value": "Yellow",
+        "value": "Huang Chao",
         "text": "Yellow (Huang Chao)"
     },
     {
@@ -1756,8 +2244,8 @@
         "text": "Ying Kai (Ma Yingkai)"
     },
     {
-        "value": "Yixiao",
-        "text": "Yixiao (Wan Ziqi)"
+        "value": "Yu Guang",
+        "text": "Yu Guang (Ning Yuguang)"
     },
     {
         "value": "YuQian",
@@ -1766,6 +2254,10 @@
     {
         "value": "YuYu",
         "text": "YuYu (Yu Chaojie)"
+    },
+    {
+        "value": "Yue Yue",
+        "text": "Yue Yue (Zhang Yue)"
     },
     {
         "value": "Ze",
@@ -1784,6 +2276,10 @@
         "text": "Zhangjiao (Zhou Yu)"
     },
     {
+        "value": "Zhexi",
+        "text": "Zhexi (Li Shuhao)"
+    },
+    {
         "value": "Tiny",
         "text": "Zhijian (Huang Jinghua)"
     },
@@ -1796,12 +2292,32 @@
         "text": "Zi Lin (Chen Yangzi)"
     },
     {
+        "value": "Yixiao",
+        "text": "ZiQi (Wan Ziqi)"
+    },
+    {
+        "value": "Ziyue",
+        "text": "Ziyue (Tang Ziyue)"
+    },
+    {
         "value": "Fq",
         "text": "fq (Ning Jiahao)"
     },
     {
+        "value": "Kimi",
+        "text": "kimi (Liu Xin)"
+    },
+    {
+        "value": "Nini",
+        "text": "nini (Zu Zhenni)"
+    },
+    {
         "value": "Wty",
         "text": "wty (Wu Xiaolei)"
+    },
+    {
+        "value": "XLong",
+        "text": "xLong (Zhang Xiaolong)"
     },
     {
         "value": "Yaoyao",
@@ -1810,181 +2326,5 @@
     {
         "value": "ZWy",
         "text": "zWy (Jin Changlin)"
-    },
-    {
-        "value": "Afeng",
-        "text": "Afeng"
-    },
-    {
-        "value": "Ambition",
-        "text": "LeLe"
-    },
-    {
-        "value": "Ameng",
-        "text": "Ameng"
-    },
-    {
-        "value": "BeiGang",
-        "text": "BeiGang"
-    },
-    {
-        "value": "DaBai",
-        "text": "DaBai"
-    },
-    {
-        "value": "Danlang",
-        "text": "Danlang"
-    },
-    {
-        "value": "Gudong",
-        "text": "Gudong"
-    },
-    {
-        "value": "JiaMu",
-        "text": "JiaMu"
-    },
-    {
-        "value": "KangKang",
-        "text": "KangKang"
-    },
-    {
-        "value": "KK (Li Yinghui)",
-        "text": "kk"
-    },
-    {
-        "value": "Kk (Li Zhucong)",
-        "text": "kk"
-    },
-    {
-        "value": "Langchen",
-        "text": "Langchen"
-    },
-    {
-        "value": "Lanyue",
-        "text": "Lanyue"
-    },
-    {
-        "value": "Linyi",
-        "text": "Linyi"
-    },
-    {
-        "value": "Linyu",
-        "text": "Linyu"
-    },
-    {
-        "value": "Milu",
-        "text": "Milu"
-    },
-    {
-        "value": "NuanNan",
-        "text": "NuanNan"
-    },
-    {
-        "value": "Pineapple",
-        "text": "Pineapple"
-    },
-    {
-        "value": "Sansui",
-        "text": "Sansui"
-    },
-    {
-        "value": "ShengSheng",
-        "text": "ShengSheng"
-    },
-    {
-        "value": "Shiba",
-        "text": "Shiba"
-    },
-    {
-        "value": "Suannai",
-        "text": "Suannai"
-    },
-    {
-        "value": "Xiaobao",
-        "text": "Xiaobao"
-    },
-    {
-        "value": "Xiaoqiu",
-        "text": "Xiaoqiu"
-    },
-    {
-        "value": "XiaoWan",
-        "text": "XiaoWan"
-    },
-    {
-        "value": "Yixin",
-        "text": "Yixin"
-    },
-    {
-        "value": "Zhinian",
-        "text": "Zhinian"
-    },
-    {
-        "value": "AnMeng",
-        "text": "AnMeng"
-    },
-    {
-        "value": "ChuJian",
-        "text": "ChuJian"
-    },
-    {
-        "value": "DongChen",
-        "text": "DongChen"
-    },
-    {
-        "value": "Huaqu",
-        "text": "Huaqu"
-    },
-    {
-        "value": "Jingyi",
-        "text": "Jingyi"
-    },
-    {
-        "value": "Jiuyu",
-        "text": "Jiuyu"
-    },
-    {
-        "value": "KK",
-        "text": "KK"
-    },
-    {
-        "value": "LanLan (Pan Xingle)",
-        "text": "LanLan"
-    },
-    {
-        "value": "Lezai",
-        "text": "Lezai"
-    },
-    {
-        "value": "Pikachu",
-        "text": "Pikachu"
-    },
-    {
-        "value": "Qingyun",
-        "text": "Qingyun"
-    },
-    {
-        "value": "Stone",
-        "text": "Stone"
-    },
-    {
-        "value": "Xiyu",
-        "text": "Xiyu"
-    },
-    {
-        "value": "YangYang (Yue Caiyang)",
-        "text": "YangYang"
-    },
-    {
-        "value": "Yechen",
-        "text": "Yechen"
-    },
-    {
-        "value": "Yuchen",
-        "text": "Yuchen"
-    },
-    {
-        "value": "Ziyue",
-        "text": "Ziyue"
     }
 ]

@@ -222,7 +222,7 @@
     {
         "value": "flowborn (support)",
         "text": "元流之子(辅助)",
-        "img": ""
+        "img": "585.jpg"
     },
     {
         "value": "flowborn (tank)",
@@ -253,6 +253,11 @@
         "value": "garo",
         "text": "伽罗",
         "img": "508.jpg"
+    },
+    {
+        "value": "garuda khageswara",
+        "text": "Garuda Khageswara (迦楼罗)",
+        "img": ""
     },
     {
         "value": "ge ya",
