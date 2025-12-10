@@ -110,7 +110,7 @@
         "img": "536.jpg"
     },
     {
-        "value": "chi cha",
+        "value": "chicha",
         "text": "蚩奼",
         "img": "172.jpg"
     },
@@ -343,6 +343,11 @@
         "value": "lam",
         "text": "澜",
         "img": "528.jpg"
+    },
+    {
+        "value": "lapulapu",
+        "text": "拉普",
+        "img": ""
     },
     {
         "value": "li bai",

@@ -184,10 +184,6 @@
         "text": "COLA (Li Yongzhao)"
     },
     {
-        "value": "Cat (Chinese Player)",
-        "text": "Cat (Chen Zhengzheng)"
-    },
-    {
         "value": "Cc",
         "text": "Cc (Zhang Jiacheng)"
     },
@@ -416,6 +412,10 @@
         "text": "HuaYun (Zhang Kaifeng)"
     },
     {
+        "value": "HuanYun",
+        "text": "HuanYun (Lai Runhao)"
+    },
+    {
         "value": "HuaYuan",
         "text": "Huayen (Tan Jinwei)"
     },
@@ -438,6 +438,10 @@
     {
         "value": "JiGuang",
         "text": "JiGuang (Zhou Wenqiang)"
+    },
+    {
+        "value": "JiaBao",
+        "text": "JiaBao (Kang Qi)"
     },
     {
         "value": "JiaMu",
@@ -470,6 +474,10 @@
     {
         "value": "Jingfeng",
         "text": "JingFeng (Zhao Rui)"
+    },
+    {
+        "value": "Jingshi",
+        "text": "Jingshi (Li Zhijie)"
     },
     {
         "value": "Jingwan",
@@ -630,10 +638,6 @@
     {
         "value": "LengXuan",
         "text": "LengXuan (Lin Zhiqian)"
-    },
-    {
-        "value": "LiLuo (Sun Longqing)",
-        "text": "LiLuo (Sun Longqing)"
     },
     {
         "value": "LiMing",
@@ -1224,6 +1228,10 @@
         "text": "XiaoBX (Cheng Jiahui)"
     },
     {
+        "value": "Xiaodu",
+        "text": "XiaoDu (Gu Weixiong)"
+    },
+    {
         "value": "XiaoDun",
         "text": "XiaoDun (Wang Hao)"
     },
@@ -1350,6 +1358,10 @@
     {
         "value": "XiaoZhu (Zhu Zheyu)",
         "text": "XiaoZhu (Zhu Zheyu)"
+    },
+    {
+        "value": "Xiaobao",
+        "text": "Xiaobao (Wen Xianfeng)"
     },
     {
         "value": "Xiaobei",
@@ -1624,10 +1636,6 @@
         "text": "up (Xia Song)"
     },
     {
-        "value": "Xiaodu",
-        "text": "xDo (Gu Weixiong)"
-    },
-    {
         "value": "Yu (Xie Shangyu)",
         "text": "yu (Xie Shangyu)"
     },
@@ -1654,10 +1662,6 @@
     {
         "value": "Achu",
         "text": "Achu (Yang Chu)"
-    },
-    {
-        "value": "Adan (Zhang Zedan)",
-        "text": "Adan (Zhang Zedan)"
     },
     {
         "value": "AnZhi",
@@ -1720,8 +1724,20 @@
         "text": "BlackSir (Song Zhengming)"
     },
     {
+        "value": "Broccoli",
+        "text": "Broccoli (Yang Zecheng)"
+    },
+    {
+        "value": "CHaoT",
+        "text": "CHaoT (Chen Haoting)"
+    },
+    {
         "value": "CarryMyTeam",
         "text": "CarryMyTeam (Wang Zujing)"
+    },
+    {
+        "value": "Cat (Chinese Player)",
+        "text": "Cat (Chen Zhengzheng)"
     },
     {
         "value": "Ccq",
@@ -1742,10 +1758,6 @@
     {
         "value": "ChenYu",
         "text": "ChenYu (Gao Xingyu)"
-    },
-    {
-        "value": "Chengkun",
-        "text": "Chengkun (Ying Yuchen)"
     },
     {
         "value": "ChuanChuan",
@@ -1829,7 +1841,7 @@
     },
     {
         "value": "Hai Luo",
-        "text": "Hai Luo"
+        "text": "Hai Luo (Li Kangchen)"
     },
     {
         "value": "HaoQi",
@@ -1888,12 +1900,16 @@
         "text": "Kuang Ren (Fang Jiaqi)"
     },
     {
+        "value": "Chengkun",
+        "text": "Kun (Ying Yuchen)"
+    },
+    {
         "value": "Li Jiu",
         "text": "Li Jiu (Li Ang)"
     },
     {
         "value": "Li Ren",
-        "text": "Li Ren (Sun Liren)"
+        "text": "Li Ren (Jia Yunhe)"
     },
     {
         "value": "LiLuo (Chinese Player)",
@@ -1922,6 +1938,10 @@
     {
         "value": "LiuBing",
         "text": "LiuBing (Lei Ziye)"
+    },
+    {
+        "value": "Adan (Zhang Zedan)",
+        "text": "LiuDan (Zhang Zedan)"
     },
     {
         "value": "Lovecd",
@@ -1957,7 +1977,7 @@
     },
     {
         "value": "MeFengHua",
-        "text": "MiFenghua (Shao Xianyu)"
+        "text": "MiFengHua (Shao Xianyu)"
     },
     {
         "value": "MingMing",
@@ -1993,7 +2013,7 @@
     },
     {
         "value": "PangP",
-        "text": "PangP (Tan Bin)"
+        "text": "PangPang (Tan Bin)"
     },
     {
         "value": "PeiPei",
@@ -2092,6 +2112,14 @@
         "text": "SuHongHong (Su Hongbo)"
     },
     {
+        "value": "LiLuo (Sun Longqing)",
+        "text": "SunMeng (Sun Longqing)"
+    },
+    {
+        "value": "TAO",
+        "text": "TAO (Liu Tao)"
+    },
+    {
         "value": "TG",
         "text": "TG (Li Tao)"
     },
@@ -2170,6 +2198,14 @@
     {
         "value": "XiaoFeng",
         "text": "XiaoFeng (Xiong Yunpeng)"
+    },
+    {
+        "value": "XiaoMeng (Zhou Zihao)",
+        "text": "XiaoMeng (Zhou Zihao)"
+    },
+    {
+        "value": "XiaoV",
+        "text": "XiaoV (Ran Changjiang)"
     },
     {
         "value": "XiaoZhu (Zhu Quanfeng)",
