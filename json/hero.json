@@ -137,7 +137,7 @@
     {
         "value": "da yu",
         "text": "大禹",
-        "img": ""
+        "img": "188.jpg"
     },
     {
         "value": "daji",
@@ -168,11 +168,6 @@
         "value": "dolia",
         "text": "朵莉亚",
         "img": "159.jpg"
-    },
-    {
-        "value": "dongfang yao",
-        "text": "曜",
-        "img": "522.jpg"
     },
     {
         "value": "donghuang",
@@ -618,6 +613,11 @@
         "value": "yang jian",
         "text": "杨戬",
         "img": "178.jpg"
+    },
+    {
+        "value": "yao",
+        "text": "曜",
+        "img": "522.jpg"
     },
     {
         "value": "yaria",
