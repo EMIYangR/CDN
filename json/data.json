@@ -13,6 +13,18 @@
         ]
     },
     {
+        "value": "flowborn (assassin)",
+        "text": "Flowborn (Assassin) (元流之子(刺客))",
+        "alias": [
+            "flowborn (assassin)",
+            "flowborn assassin",
+            "flw assassin",
+            "child of the primal flow assassin",
+            "child assassin",
+            "child of the primal flow (assassin)"
+        ]
+    },
+    {
         "value": "flowborn (mage)",
         "text": "Flowborn (Mage) (元流之子(法师))",
         "alias": [
@@ -1092,6 +1104,16 @@
         ]
     },
     {
+        "value": "yango",
+        "text": "Yango (元歌)",
+        "alias": [
+            "yango",
+            "yuan ge",
+            "yuan song",
+            "yuange"
+        ]
+    },
+    {
         "value": "yao",
         "text": "Yao (曜)",
         "alias": [
@@ -1135,15 +1157,6 @@
             "yi xing",
             "xing",
             "yx"
-        ]
-    },
-    {
-        "value": "yuan ge",
-        "text": "Yuan Ge (元歌)",
-        "alias": [
-            "yuan ge",
-            "yuan song",
-            "yuange"
         ]
     },
     {

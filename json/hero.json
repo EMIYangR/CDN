@@ -210,6 +210,11 @@
         "img": "542.jpg"
     },
     {
+        "value": "flowborn (assassin)",
+        "text": "元流之子(刺客)",
+        "img": "583.jpg"
+    },
+    {
         "value": "flowborn (mage)",
         "text": "元流之子(法师)",
         "img": "582.jpg"
@@ -615,6 +620,11 @@
         "img": "178.jpg"
     },
     {
+        "value": "yango",
+        "text": "元歌",
+        "img": "125.jpg"
+    },
+    {
         "value": "yao",
         "text": "曜",
         "img": "522.jpg"
@@ -638,11 +648,6 @@
         "value": "yixing",
         "text": "弈星",
         "img": "197.jpg"
-    },
-    {
-        "value": "yuan ge",
-        "text": "元歌",
-        "img": "125.jpg"
     },
     {
         "value": "yuhuan",
