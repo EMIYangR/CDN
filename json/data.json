@@ -300,6 +300,13 @@
         ]
     },
     {
+        "value": "devara",
+        "text": "Devara (谛梵罗)",
+        "alias": [
+            "devara"
+        ]
+    },
+    {
         "value": "dharma",
         "text": "Dharma (达摩)",
         "alias": [
@@ -1086,6 +1093,14 @@
             "xiao qiao",
             "xq",
             "breezy"
+        ]
+    },
+    {
+        "value": "xinmo liuer",
+        "text": "Xinmo Liuer (心魔六耳)",
+        "alias": [
+            "xinmo liuer",
+            "liuer"
         ]
     },
     {

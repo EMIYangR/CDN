@@ -145,6 +145,11 @@
         "img": "109.jpg"
     },
     {
+        "value": "devara",
+        "text": "谛梵罗",
+        "img": ""
+    },
+    {
         "value": "dharma",
         "text": "达摩",
         "img": "134.jpg"
@@ -608,6 +613,11 @@
         "value": "xiao qiao",
         "text": "小乔",
         "img": "106.jpg"
+    },
+    {
+        "value": "xinmo liuer",
+        "text": "Xinmo Liuer (心魔六耳)",
+        "img": "549.jpg"
     },
     {
         "value": "xuance",
