@@ -495,6 +495,11 @@
         "img": "180.jpg"
     },
     {
+        "value": "niumo",
+        "text": "牛魔",
+        "img": "168.jpg"
+    },
+    {
         "value": "nuwa",
         "text": "女娲",
         "img": "179.jpg"
@@ -573,11 +578,6 @@
         "value": "taiyi zhenren",
         "text": "太乙真人",
         "img": "186.jpg"
-    },
-    {
-        "value": "toro (honor of kings)",
-        "text": "牛魔",
-        "img": "168.jpg"
     },
     {
         "value": "ukyo tachibana",
