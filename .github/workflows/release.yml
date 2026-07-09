@@ -1,0 +1,154 @@
+name: Auto Release
+
+# ============================================
+# 触发条件：推送版本标签时自动发布 Release
+# 支持两种标签格式：
+#   v6.14 / v6.14.1   → 带 v 前缀（推荐）
+#   6.14  / 6.14.1     → 不带 v 前缀（兼容现有标签）
+# ============================================
+on:
+  push:
+    tags:
+      - 'v[0-9]*'
+      - '[0-9]+*'
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: '6.15'
+        required: true
+        type: string
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    name: Publish GitHub Release
+    runs-on: ubuntu-latest
+
+    steps:
+      # ------------------------------------------
+      # 1. 检出代码（完整历史，用于生成 Release Notes）
+      # ------------------------------------------
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      # ------------------------------------------
+      # 2. 解析标签 & 版本号
+      # ------------------------------------------
+      - name: Parse version
+        id: vars
+        run: |
+          # 确定触发标签
+          if [ -n "${{ inputs.tag }}" ]; then
+            TAG="${{ inputs.tag }}"
+          else
+            TAG="${GITHUB_REF#refs/tags/}"
+          fi
+
+          # 去掉 v 前缀得到纯版本号
+          VERSION="${TAG#v}"
+          # 去掉 V 前缀（兼容大写）
+          VERSION="${VERSION#V}"
+
+          # 判断是否为预发布（包含 -alpha / -beta / -rc / -pre 等）
+          if echo "$VERSION" | grep -qiE '(alpha|beta|rc|pre|dev|snapshot)'; then
+            PRERELEASE=true
+          else
+            PRERELEASE=false
+          fi
+
+          echo "tag=$TAG"          >> "$GITHUB_OUTPUT"
+          echo "version=$VERSION"  >> "$GITHUB_OUTPUT"
+          echo "prerelease=$PRERELEASE" >> "$GITHUB_OUTPUT"
+
+          echo "::notice::Tag=$TAG  Version=$VERSION  Pre-release=$PRERELEASE"
+
+      # ------------------------------------------
+      # 3. 打包 CDN 资源
+      #    - 全量包：CDN-all-{version}.zip
+      #    - 分目录包：js / json / font / downloads 各自打包（存在时才打）
+      # ------------------------------------------
+      - name: Package CDN assets
+        id: package
+        run: |
+          VERSION="${{ steps.vars.outputs.version }}"
+          ASSETS=""
+
+          # --- 全量包 ---
+          ALL_ZIP="CDN-all-${VERSION}.zip"
+          zip -r "$ALL_ZIP" . \
+            -x ".git/*" \
+            -x ".github/*" \
+            -x "*.zip" \
+            -x "*.tar.gz"
+          echo "打包完成: $ALL_ZIP ($(du -h "$ALL_ZIP" | cut -f1))"
+          ASSETS="$ASSETS $ALL_ZIP"
+
+          # --- 分目录包 ---
+          for DIR in js json font downloads; do
+            if [ -d "$DIR" ] && [ -n "$(ls -A "$DIR" 2>/dev/null)" ]; then
+              DIR_ZIP="CDN-${DIR}-${VERSION}.zip"
+              zip -r "$DIR_ZIP" "$DIR"
+              echo "打包完成: $DIR_ZIP ($(du -h "$DIR_ZIP" | cut -f1))"
+              ASSETS="$ASSETS $DIR_ZIP"
+            else
+              echo "跳过: $DIR（不存在或为空）"
+            fi
+          done
+
+          # 输出资产文件列表（换行分隔，供 Release 步骤使用）
+          echo "assets<<EOF" >> "$GITHUB_OUTPUT"
+          echo "$ASSETS" | tr ' ' '\n' | grep -v '^$'
+          echo "EOF" >> "$GITHUB_OUTPUT"
+
+      # ------------------------------------------
+      # 4. 生成变更日志（从上一个标签到当前标签的提交记录）
+      # ------------------------------------------
+      - name: Generate changelog
+        id: changelog
+        run: |
+          # 获取上一个标签（排除当前标签）
+          PREV_TAG=$(git tag --sort=-creatordate | grep -v "^${{ steps.vars.outputs.tag }}$" | head -1)
+
+          if [ -n "$PREV_TAG" ]; then
+            echo "上一个标签: $PREV_TAG"
+            {
+              echo "## 变更日志"
+              echo ""
+              echo "从 \`$PREV_TAG\` 到 \`${{ steps.vars.outputs.tag }}\` 的提交记录："
+              echo ""
+              git log --pretty=format:"- %s (%h)" "$PREV_TAG"..HEAD 2>/dev/null || echo "- 无提交记录"
+              echo ""
+            } > CHANGELOG.md
+          else
+            echo "未找到上一个标签，使用全部提交记录"
+            {
+              echo "## 变更日志"
+              echo ""
+              git log --pretty=format:"- %s (%h)" --max-count=30
+              echo ""
+            } > CHANGELOG.md
+          fi
+
+          echo "--- CHANGELOG 预览 ---"
+          cat CHANGELOG.md
+
+      # ------------------------------------------
+      # 5. 创建 GitHub Release
+      # ------------------------------------------
+      - name: Create Release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ steps.vars.outputs.tag }}
+          name: ${{ steps.vars.outputs.version }}
+          body_path: CHANGELOG.md
+          prerelease: ${{ steps.vars.outputs.prerelease }}
+          draft: false
+          make_latest: true
+          generate_release_notes: false
+          files: ${{ steps.package.outputs.assets }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
