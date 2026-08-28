@@ -1044,6 +1044,15 @@
         ]
     },
     {
+        "value": "wang wei",
+        "text": "Wang Wei (王维)",
+        "alias": [
+            "wang wei",
+            "wangwei",
+            "ww"
+        ]
+    },
+    {
         "value": "wang zhaojun",
         "text": "Wang Zhaojun (王昭君)",
         "alias": [
@@ -1276,7 +1285,7 @@
     },
     {
         "value": "luara",
-        "text": "Luara (卢雅娜)",
+        "text": "Luara (卢雅那)",
         "alias": [
             "luara"
         ]

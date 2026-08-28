@@ -401,7 +401,7 @@
     },
     {
         "value": "luara",
-        "text": "卢雅娜",
+        "text": "卢雅那",
         "img": "547.jpg"
     },
     {
@@ -588,6 +588,11 @@
         "value": "umbrosa",
         "text": "影",
         "img": "558.jpg"
+    },
+    {
+        "value": "wang wei",
+        "text": "王维",
+        "img": ""
     },
     {
         "value": "wang zhaojun",
