@@ -14,7 +14,7 @@ on:
   workflow_dispatch:
     inputs:
       tag:
-        description: '6.16'
+        description: '6.17'
         required: true
         type: string
 

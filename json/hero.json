@@ -190,6 +190,11 @@
         "img": "126.jpg"
     },
     {
+        "value": "dunshan",
+        "text": "盾山",
+        "img": "509.jpg"
+    },
+    {
         "value": "dyadia",
         "text": "少司缘",
         "img": "577.jpg"
@@ -528,11 +533,6 @@
         "value": "shi",
         "text": "西施",
         "img": "523.jpg"
-    },
-    {
-        "value": "shieldun",
-        "text": "盾山",
-        "img": "509.jpg"
     },
     {
         "value": "shouyue",

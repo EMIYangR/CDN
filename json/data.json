@@ -392,6 +392,16 @@
         ]
     },
     {
+        "value": "dunshan",
+        "text": "Dunshan (盾山)",
+        "alias": [
+            "dunshan",
+            "dun shan",
+            "ds",
+            "shieldun"
+        ]
+    },
+    {
         "value": "dyadia",
         "text": "Dyadia (少司缘)",
         "alias": [
@@ -939,15 +949,6 @@
             "shi",
             "xi shi",
             "xishi"
-        ]
-    },
-    {
-        "value": "shieldun",
-        "text": "Shieldun (盾山)",
-        "alias": [
-            "shieldun",
-            "dun shan",
-            "ds"
         ]
     },
     {
