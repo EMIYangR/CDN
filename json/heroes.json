@@ -521,11 +521,12 @@
     ]
   },
   {
-    "value": "flowborn (support)",
+    "value": "flowborn (roamer)",
     "text": "元流之子(辅助)",
-    "name": "Flowborn (Support)",
+    "name": "Flowborn (Roamer)",
     "img": "585.jpg",
     "alias": [
+      "flowborn (roamer)",
       "flowborn (support)",
       "flowborn support",
       "flw support"
