@@ -136,7 +136,8 @@
             "arli",
             "gong sun li",
             "gong",
-            "gongsun li"
+            "gongsun li",
+            "ali"
         ]
     },
     {
@@ -146,7 +147,8 @@
             "arthur (honor of kings)",
             "arthur hok",
             "arthur (hok)",
-            "arthurhok"
+            "arthurhok",
+            "yase"
         ]
     },
     {
@@ -186,6 +188,15 @@
         ]
     },
     {
+        "value": "butterfly",
+        "text": "Butterfly (刀锋宝贝)",
+        "alias": [
+            "butterfly",
+            "daofeng",
+            "daofeng baobei"
+        ]
+    },
+    {
         "value": "cai yan",
         "text": "Cai Yan (蔡文姬)",
         "alias": [
@@ -205,7 +216,7 @@
     },
     {
         "value": "catboom",
-        "text": "CatBoom (沈梦溪)",
+        "text": "Catboom (沈梦溪)",
         "alias": [
             "catboom",
             "cat boom",
@@ -227,6 +238,7 @@
         "text": "Chang'e (嫦娥)",
         "alias": [
             "chang'e",
+            "change",
             "chang"
         ]
     },
@@ -290,21 +302,25 @@
         "text": "Da Yu (大禹)",
         "alias": [
             "da yu",
-            "dayu"
+            "dayu",
+            "dy"
         ]
     },
     {
         "value": "daji",
         "text": "Daji (妲己)",
         "alias": [
-            "daji"
+            "daji",
+            "dj"
         ]
     },
     {
         "value": "devara",
         "text": "Devara (谛梵罗)",
         "alias": [
-            "devara"
+            "devara",
+            "difanluo",
+            "dfl"
         ]
     },
     {
@@ -312,7 +328,8 @@
         "text": "Dharma (达摩)",
         "alias": [
             "dharma",
-            "damo"
+            "damo",
+            "dm"
         ]
     },
     {
@@ -322,7 +339,8 @@
             "di renjie",
             "renjie",
             "judge dee",
-            "direnjie"
+            "direnjie",
+            "drj"
         ]
     },
     {
@@ -330,7 +348,8 @@
         "text": "Dian Wei (典韦)",
         "alias": [
             "dian wei",
-            "dianwei"
+            "dianwei",
+            "dw"
         ]
     },
     {
@@ -344,7 +363,8 @@
             "diao chan hok",
             "diao chan (hok)",
             "diao hok",
-            "diaochan hok"
+            "diaochan hok",
+            "dc"
         ]
     },
     {
@@ -353,7 +373,8 @@
         "alias": [
             "dolia",
             "duo li ya",
-            "doria"
+            "doria",
+            "dly"
         ]
     },
     {
@@ -369,7 +390,8 @@
             "east taiyi",
             "eclipse",
             "tai yi",
-            "taiyi"
+            "taiyi",
+            "dhty"
         ]
     },
     {
@@ -380,7 +402,8 @@
             "dr. bian",
             "bian que",
             "bianque",
-            "chemist"
+            "chemist",
+            "bq"
         ]
     },
     {
@@ -389,7 +412,8 @@
         "alias": [
             "dun",
             "xiahou dun",
-            "xiahou"
+            "xiahou",
+            "xhd"
         ]
     },
     {
@@ -407,7 +431,8 @@
         "text": "Dyadia (少司缘)",
         "alias": [
             "dyadia",
-            "shao siyuan"
+            "shao siyuan",
+            "ssy"
         ]
     },
     {
@@ -415,7 +440,8 @@
         "text": "Erin (艾琳)",
         "alias": [
             "erin",
-            "ailin"
+            "ailin",
+            "al"
         ]
     },
     {
@@ -426,7 +452,8 @@
             "liyuanfang",
             "li yuanfang",
             "private ear",
-            "yuanfang"
+            "yuanfang",
+            "lyf"
         ]
     },
     {
@@ -446,7 +473,8 @@
             "lao",
             "lao fu zi",
             "eternal sage",
-            "old master"
+            "old master",
+            "lfz"
         ]
     },
     {
@@ -468,7 +496,8 @@
         "alias": [
             "gao",
             "gao jianli",
-            "guitarist"
+            "guitarist",
+            "gjl"
         ]
     },
     {
@@ -495,7 +524,8 @@
             "galo",
             "garro",
             "jia luo",
-            "jialuo"
+            "jialuo",
+            "jl"
         ]
     },
     {
@@ -504,22 +534,25 @@
         "alias": [
             "garuda",
             "garuda khageswara",
-            "khageswara"
+            "khageswara",
+            "dll"
         ]
-    },    
+    },
     {
         "value": "ge ya",
         "text": "Ge Ya (戈娅)",
         "alias": [
             "ge ya",
-            "geya"
+            "geya",
+            "gy"
         ]
     },
     {
         "value": "guan yu",
         "text": "Guan Yu (关羽)",
         "alias": [
-            "guan yu"
+            "guan yu",
+            "gy"
         ]
     },
     {
@@ -538,7 +571,8 @@
         "text": "Han Xin (韩信)",
         "alias": [
             "han xin",
-            "hanxin"
+            "hanxin",
+            "hx"
         ]
     },
     {
@@ -547,7 +581,8 @@
         "alias": [
             "haya",
             "haiya",
-            "hai yue"
+            "hai yue",
+            "hy"
         ]
     },
     {
@@ -556,7 +591,8 @@
         "alias": [
             "heino",
             "hai nuo",
-            "hainuo"
+            "hainuo",
+            "hn"
         ]
     },
     {
@@ -565,7 +601,8 @@
         "alias": [
             "hou yi",
             "houyi",
-            "solarus"
+            "solarus",
+            "hy"
         ]
     },
     {
@@ -582,7 +619,8 @@
         "text": "Jin Chan (金蝉)",
         "alias": [
             "jin chan",
-            "jin"
+            "jin",
+            "jc"
         ]
     },
     {
@@ -605,7 +643,8 @@
         "value": "kong kong er",
         "text": "Kong Kong Er (空空儿)",
         "alias": [
-            "kong kong er"
+            "kong kong er",
+            "kke"
         ]
     },
     {
@@ -625,7 +664,8 @@
         "alias": [
             "kui",
             "zhong kui",
-            "voidcaller"
+            "voidcaller",
+            "zk"
         ]
     },
     {
@@ -637,7 +677,8 @@
             "da xiao jie",
             "sun shangxiang",
             "shangxiang",
-            "sunshangxiang"
+            "sunshangxiang",
+            "ssx"
         ]
     },
     {
@@ -669,14 +710,16 @@
         "value": "li bai",
         "text": "Li Bai (李白)",
         "alias": [
-            "li bai"
+            "li bai",
+            "lb"
         ]
     },
     {
         "value": "li xin",
         "text": "Li Xin (李信)",
         "alias": [
-            "li xin"
+            "li xin",
+            "lx"
         ]
     },
     {
@@ -684,7 +727,8 @@
         "text": "Lian Po (廉颇)",
         "alias": [
             "lian po",
-            "lian"
+            "lian",
+            "lp"
         ]
     },
     {
@@ -693,7 +737,8 @@
         "alias": [
             "liang",
             "zhang liang",
-            "tomemaster"
+            "tomemaster",
+            "zl"
         ]
     },
     {
@@ -701,14 +746,16 @@
         "text": "Liu Bang (刘邦)",
         "alias": [
             "liu bang",
-            "bang"
+            "bang",
+            "lb"
         ]
     },
     {
         "value": "liu bei",
         "text": "Liu Bei (刘备)",
         "alias": [
-            "liu bei"
+            "liu bei",
+            "lb"
         ]
     },
     {
@@ -716,7 +763,8 @@
         "text": "Liu Shan (刘禅)",
         "alias": [
             "liu shan",
-            "mischief"
+            "mischief",
+            "ls"
         ]
     },
     {
@@ -731,7 +779,17 @@
             "lubuhok",
             "lubu hok",
             "lubu kog",
-            "lubu (kog)"
+            "lubu (kog)",
+            "lb"
+        ]
+    },
+    {
+        "value": "luara",
+        "text": "Luara (卢雅那)",
+        "alias": [
+            "luara",
+            "luyana",
+            "lyn"
         ]
     },
     {
@@ -740,14 +798,16 @@
         "alias": [
             "luban no.7",
             "luban no7",
-            "no7"
+            "no7",
+            "lbqh"
         ]
     },
     {
         "value": "luna",
         "text": "Luna (露娜)",
         "alias": [
-            "luna"
+            "luna",
+            "ln"
         ]
     },
     {
@@ -756,7 +816,9 @@
         "alias": [
             "mai shiranui",
             "mai",
-            "huowu"
+            "huowu",
+            "buzhihuo wu",
+            "bzhw"
         ]
     },
     {
@@ -765,7 +827,8 @@
         "alias": [
             "chao",
             "ma chao",
-            "machao"
+            "machao",
+            "mc"
         ]
     },
     {
@@ -774,7 +837,8 @@
         "alias": [
             "marco polo",
             "marco",
-            "polo"
+            "polo",
+            "mkbl"
         ]
     },
     {
@@ -783,7 +847,8 @@
         "alias": [
             "master luban",
             "luban m",
-            "luban master"
+            "luban master",
+            "lbds"
         ]
     },
     {
@@ -792,7 +857,8 @@
         "alias": [
             "mayene",
             "jixm",
-            "ji xiaoman"
+            "ji xiaoman",
+            "jxm"
         ]
     },
     {
@@ -818,7 +884,8 @@
         "text": "Menki (梦奇)",
         "alias": [
             "menki",
-            "meng qi"
+            "meng qi",
+            "mq"
         ]
     },
     {
@@ -826,14 +893,17 @@
         "text": "Mi Yue (芈月)",
         "alias": [
             "mi yue",
-            "miyue"
+            "miyue",
+            "my"
         ]
     },
     {
         "value": "milady",
         "text": "Milady (米莱狄)",
         "alias": [
-            "milady"
+            "milady",
+            "milaidi",
+            "mld"
         ]
     },
     {
@@ -841,7 +911,8 @@
         "text": "Ming (明世隐)",
         "alias": [
             "ming",
-            "ming shiyin"
+            "ming shiyin",
+            "msy"
         ]
     },
     {
@@ -850,7 +921,8 @@
         "alias": [
             "mozi",
             "mo zi",
-            "peacekeeper"
+            "peacekeeper",
+            "mz"
         ]
     },
     {
@@ -859,7 +931,8 @@
         "alias": [
             "mulan",
             "huamulan",
-            "hua mulan"
+            "hua mulan",
+            "ml"
         ]
     },
     {
@@ -868,7 +941,9 @@
         "alias": [
             "musashi",
             "miyamoto musashi",
-            "gongben"
+            "gongben",
+            "gongben wuzhang",
+            "gbwz"
         ]
     },
     {
@@ -877,14 +952,16 @@
         "alias": [
             "nakoruru",
             "nako",
-            "xiaoji"
+            "xiaoji",
+            "nkll"
         ]
     },
     {
         "value": "nezha",
         "text": "Nezha (哪吒)",
         "alias": [
-            "nezha"
+            "nezha",
+            "nz"
         ]
     },
     {
@@ -895,21 +972,24 @@
             "toro (honor of kings)",
             "toro (hok)",
             "toro hok",
-            "torohok"
+            "torohok",
+            "nm"
         ]
     },
     {
         "value": "nuwa",
         "text": "Nuwa (女娲)",
         "alias": [
-            "nuwa"
+            "nuwa",
+            "nw"
         ]
     },
     {
         "value": "pangu",
         "text": "Pangu (盘古)",
         "alias": [
-            "pangu"
+            "pangu",
+            "pg"
         ]
     },
     {
@@ -940,7 +1020,8 @@
         "alias": [
             "shangguan",
             "waner",
-            "shangguan waner"
+            "shangguan waner",
+            "sgwe"
         ]
     },
     {
@@ -949,7 +1030,8 @@
         "alias": [
             "shi",
             "xi shi",
-            "xishi"
+            "xishi",
+            "xs"
         ]
     },
     {
@@ -957,7 +1039,8 @@
         "text": "Shouyue (百里守约)",
         "alias": [
             "shouyue",
-            "baili shouyue"
+            "baili shouyue",
+            "blsy"
         ]
     },
     {
@@ -975,14 +1058,16 @@
         "value": "sima yi",
         "text": "Sima Yi (司马懿)",
         "alias": [
-            "sima yi"
+            "sima yi",
+            "smy"
         ]
     },
     {
         "value": "su lie",
         "text": "Su Lie (苏烈)",
         "alias": [
-            "su lie"
+            "su lie",
+            "sl"
         ]
     },
     {
@@ -992,7 +1077,8 @@
             "sun bin",
             "sunbin",
             "bin",
-            "timebender"
+            "timebender",
+            "sb"
         ]
     },
     {
@@ -1001,14 +1087,16 @@
         "alias": [
             "sun ce",
             "sunce",
-            "seafarer"
+            "seafarer",
+            "sc"
         ]
     },
     {
         "value": "sun quan",
         "text": "Sun Quan (孙权)",
         "alias": [
-            "sun quan"
+            "sun quan",
+            "sq"
         ]
     },
     {
@@ -1017,7 +1105,8 @@
         "alias": [
             "sun wukong",
             "wukong hok",
-            "monkey king"
+            "monkey king",
+            "swk"
         ]
     },
     {
@@ -1026,7 +1115,8 @@
         "alias": [
             "taiyi zhenren",
             "zhenren",
-            "tz"
+            "tz",
+            "tyzr"
         ]
     },
     {
@@ -1034,7 +1124,9 @@
         "text": "Ukyo Tachibana (橘右京)",
         "alias": [
             "ukyo tachibana",
-            "ukyo"
+            "ukyo",
+            "juyoujing",
+            "jyj"
         ]
     },
     {
@@ -1042,7 +1134,8 @@
         "text": "Umbrosa (影)",
         "alias": [
             "umbrosa",
-            "shadow"
+            "shadow",
+            "ying"
         ]
     },
     {
@@ -1062,7 +1155,8 @@
             "zhaojun",
             "zhao jun",
             "frost",
-            "princess frost"
+            "princess frost",
+            "wzj"
         ]
     },
     {
@@ -1085,7 +1179,8 @@
             "zhongwuyan",
             "zhongwuyen",
             "zhong wu yan",
-            "zhong wu yen"
+            "zhong wu yen",
+            "wy"
         ]
     },
     {
@@ -1111,7 +1206,8 @@
         "text": "Xinmo Liuer (心魔六耳)",
         "alias": [
             "xinmo liuer",
-            "liuer"
+            "liuer",
+            "xmle"
         ]
     },
     {
@@ -1119,14 +1215,16 @@
         "text": "Xuance (百里玄策)",
         "alias": [
             "xuance",
-            "baili xuance"
+            "baili xuance",
+            "blxc"
         ]
     },
     {
         "value": "yang jian",
         "text": "Yang Jian (杨戬)",
         "alias": [
-            "yang jian"
+            "yang jian",
+            "yj"
         ]
     },
     {
@@ -1136,7 +1234,8 @@
             "yango",
             "yuan ge",
             "yuan song",
-            "yuange"
+            "yuange",
+            "yg"
         ]
     },
     {
@@ -1212,7 +1311,8 @@
         "alias": [
             "zhao huaizhen",
             "zhao hz",
-            "huaizhen"
+            "huaizhen",
+            "zhz"
         ]
     },
     {
@@ -1229,7 +1329,8 @@
         "alias": [
             "zhu bajie",
             "bajie",
-            "pig"
+            "pig",
+            "zbj"
         ]
     },
     {
@@ -1241,7 +1342,8 @@
             "zhuangzhou",
             "zhuang zhou",
             "dreambuilder",
-            "yu"
+            "yu",
+            "zz"
         ]
     },
     {
@@ -1249,7 +1351,8 @@
         "text": "Zilong (赵云)",
         "alias": [
             "zilong",
-            "zhao yun"
+            "zhao yun",
+            "zy"
         ]
     },
     {
@@ -1270,26 +1373,12 @@
         ]
     },
     {
-        "value": "butterfly",
-        "text": "Butterfly (刀锋宝贝)",
-        "alias": [
-            "butterfly",
-            "daofeng",
-            "daofeng baobei"
-        ]
-    },
-    {
         "value": "fatih",
         "text": "Fatih (法提赫)",
         "alias": [
-            "fatih"
-        ]
-    },
-    {
-        "value": "luara",
-        "text": "Luara (卢雅那)",
-        "alias": [
-            "luara"
+            "fatih",
+            "fatihe",
+            "fth"
         ]
     },
     {
@@ -1298,7 +1387,9 @@
         "alias": [
             "genghis khan",
             "genghis",
-            "khan"
+            "khan",
+            "cjsh",
+            "chengjisihan"
         ]
     }
 ]
