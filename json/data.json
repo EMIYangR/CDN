@@ -2,7 +2,13 @@
     {
         "value": "",
         "text": "Null",
-        "alias": ""
+        "alias": [
+            ""
+        ],
+        "server": [
+            "honorofkings",
+            "arenaofvalor"
+        ]
     },
     {
         "value": "none",
@@ -10,6 +16,10 @@
         "alias": [
             "none",
             "transparent"
+        ],
+        "server": [
+            "honorofkings",
+            "arenaofvalor"
         ]
     },
     {
@@ -22,6 +32,9 @@
             "child of the primal flow assassin",
             "child assassin",
             "child of the primal flow (assassin)"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -34,6 +47,10 @@
             "child of the primal flow mage",
             "child mage",
             "child of the primal flow (mage)"
+        ],
+        "server": [
+            "honorofkings",
+            "arenaofvalor"
         ]
     },
     {
@@ -51,6 +68,10 @@
             "child of the primal flow (marksman)",
             "child of the primal flow archer",
             "child of the primal flow (archer)"
+        ],
+        "server": [
+            "honorofkings",
+            "arenaofvalor"
         ]
     },
     {
@@ -61,6 +82,9 @@
             "flowborn (support)",
             "flowborn support",
             "flw support"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -73,6 +97,9 @@
             "child of the primal flow (tank)",
             "child of the primal flow tank",
             "child tank"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -83,6 +110,9 @@
             "aguduo",
             "a gu duo",
             "aguto"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -91,6 +121,9 @@
         "alias": [
             "alessio",
             "laixiao"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -100,6 +133,10 @@
             "allain",
             "yalian",
             "yl"
+        ],
+        "server": [
+            "honorofkings",
+            "arenaofvalor"
         ]
     },
     {
@@ -109,6 +146,9 @@
             "angela",
             "anqila",
             "an qi la"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -118,6 +158,9 @@
             "ao'yin",
             "aoyin",
             "loong"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -127,6 +170,9 @@
             "arke",
             "ake",
             "a ke"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -138,6 +184,9 @@
             "gong",
             "gongsun li",
             "ali"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -149,6 +198,9 @@
             "arthur (hok)",
             "arthurhok",
             "yase"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -158,6 +210,9 @@
             "athena",
             "yadianna",
             "ya dian na"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -167,6 +222,9 @@
             "augran",
             "da siming",
             "dasm"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -175,6 +233,9 @@
         "alias": [
             "bai qi",
             "baiqi"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -185,6 +246,10 @@
             "magnus",
             "kuangtie",
             "kuang tie"
+        ],
+        "server": [
+            "honorofkings",
+            "arenaofvalor"
         ]
     },
     {
@@ -194,6 +259,10 @@
             "butterfly",
             "daofeng",
             "daofeng baobei"
+        ],
+        "server": [
+            "honorofkings",
+            "arenaofvalor"
         ]
     },
     {
@@ -204,6 +273,9 @@
             "caiwenji",
             "cai wenji",
             "little lute"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -212,6 +284,9 @@
         "alias": [
             "cao cao",
             "caocao"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -223,6 +298,9 @@
             "maomi",
             "shen mengxi",
             "shen"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -231,6 +309,9 @@
         "alias": [
             "chano",
             "cang"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -240,6 +321,9 @@
             "chang'e",
             "change",
             "chang"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -249,6 +333,10 @@
             "charlotte",
             "xialt",
             "xialuote"
+        ],
+        "server": [
+            "honorofkings",
+            "arenaofvalor"
         ]
     },
     {
@@ -256,6 +344,9 @@
         "text": "Cheng Yaojin (程咬金)",
         "alias": [
             "cheng yaojin"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -264,6 +355,9 @@
         "alias": [
             "chicha",
             "chi cha"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -274,6 +368,9 @@
             "long feng",
             "yun zhongjun",
             "yun zhong jun"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -286,6 +383,9 @@
             "yu ji",
             "yuji",
             "yj"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -295,6 +395,9 @@
             "da qiao",
             "daqiao",
             "dq"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -304,6 +407,9 @@
             "da yu",
             "dayu",
             "dy"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -312,6 +418,9 @@
         "alias": [
             "daji",
             "dj"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -321,6 +430,9 @@
             "devara",
             "difanluo",
             "dfl"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -330,6 +442,9 @@
             "dharma",
             "damo",
             "dm"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -341,6 +456,9 @@
             "judge dee",
             "direnjie",
             "drj"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -350,6 +468,9 @@
             "dian wei",
             "dianwei",
             "dw"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -365,6 +486,9 @@
             "diao hok",
             "diaochan hok",
             "dc"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -375,6 +499,10 @@
             "duo li ya",
             "doria",
             "dly"
+        ],
+        "server": [
+            "honorofkings",
+            "arenaofvalor"
         ]
     },
     {
@@ -392,6 +520,9 @@
             "tai yi",
             "taiyi",
             "dhty"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -404,6 +535,9 @@
             "bianque",
             "chemist",
             "bq"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -414,6 +548,9 @@
             "xiahou dun",
             "xiahou",
             "xhd"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -424,6 +561,9 @@
             "dun shan",
             "ds",
             "shieldun"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -433,6 +573,10 @@
             "dyadia",
             "shao siyuan",
             "ssy"
+        ],
+        "server": [
+            "honorofkings",
+            "arenaofvalor"
         ]
     },
     {
@@ -442,6 +586,10 @@
             "erin",
             "ailin",
             "al"
+        ],
+        "server": [
+            "honorofkings",
+            "arenaofvalor"
         ]
     },
     {
@@ -454,6 +602,9 @@
             "private ear",
             "yuanfang",
             "lyf"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -462,6 +613,9 @@
         "alias": [
             "feyd",
             "fei"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -475,6 +629,9 @@
             "eternal sage",
             "old master",
             "lfz"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -488,6 +645,9 @@
             "ganjiang & moye",
             "gjmy",
             "smith & blade"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -498,6 +658,9 @@
             "gao jianli",
             "guitarist",
             "gjl"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -514,6 +677,9 @@
             "lanling wang",
             "prince of lanling",
             "prince"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -526,6 +692,9 @@
             "jia luo",
             "jialuo",
             "jl"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -536,6 +705,9 @@
             "garuda khageswara",
             "khageswara",
             "dll"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -545,6 +717,9 @@
             "ge ya",
             "geya",
             "gy"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -553,6 +728,9 @@
         "alias": [
             "guan yu",
             "gy"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -564,6 +742,9 @@
             "guzi",
             "gui",
             "gui guzi"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -573,6 +754,9 @@
             "han xin",
             "hanxin",
             "hx"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -583,6 +767,9 @@
             "haiya",
             "hai yue",
             "hy"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -593,6 +780,10 @@
             "hai nuo",
             "hainuo",
             "hn"
+        ],
+        "server": [
+            "honorofkings",
+            "arenaofvalor"
         ]
     },
     {
@@ -603,6 +794,9 @@
             "houyi",
             "solarus",
             "hy"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -612,6 +806,9 @@
             "huang zhong",
             "huangzhong",
             "hz"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -621,6 +818,9 @@
             "jin chan",
             "jin",
             "jc"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -629,6 +829,9 @@
         "alias": [
             "jing",
             "mirrorblade"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -637,6 +840,9 @@
         "alias": [
             "kai",
             "kaizer"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -645,6 +851,9 @@
         "alias": [
             "kong kong er",
             "kke"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -656,6 +865,9 @@
             "zhuge liang",
             "zhuge",
             "zgl"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -666,6 +878,9 @@
             "zhong kui",
             "voidcaller",
             "zk"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -679,6 +894,9 @@
             "shangxiang",
             "sunshangxiang",
             "ssx"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -688,6 +906,9 @@
             "lady zhen",
             "zhen ji",
             "zhenji"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -696,14 +917,20 @@
         "alias": [
             "lam",
             "lan"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
-        "value": "Lapulapu",
+        "value": "lapulapu",
         "text": "Lapulapu (拉普)",
         "alias": [
-            "Lapulapu",
+            "lapulapu",
             "lplp"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -712,6 +939,9 @@
         "alias": [
             "li bai",
             "lb"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -720,6 +950,9 @@
         "alias": [
             "li xin",
             "lx"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -729,6 +962,9 @@
             "lian po",
             "lian",
             "lp"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -739,6 +975,9 @@
             "zhang liang",
             "tomemaster",
             "zl"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -748,6 +987,9 @@
             "liu bang",
             "bang",
             "lb"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -756,6 +998,9 @@
         "alias": [
             "liu bei",
             "lb"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -765,6 +1010,9 @@
             "liu shan",
             "mischief",
             "ls"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -781,6 +1029,9 @@
             "lubu kog",
             "lubu (kog)",
             "lb"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -790,6 +1041,9 @@
             "luara",
             "luyana",
             "lyn"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -800,6 +1054,9 @@
             "luban no7",
             "no7",
             "lbqh"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -808,6 +1065,9 @@
         "alias": [
             "luna",
             "ln"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -819,6 +1079,9 @@
             "huowu",
             "buzhihuo wu",
             "bzhw"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -829,6 +1092,9 @@
             "ma chao",
             "machao",
             "mc"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -839,6 +1105,9 @@
             "marco",
             "polo",
             "mkbl"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -849,6 +1118,9 @@
             "luban m",
             "luban master",
             "lbds"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -859,6 +1131,9 @@
             "jixm",
             "ji xiaoman",
             "jxm"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -868,6 +1143,9 @@
             "meng tian",
             "mengtian",
             "mt"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -877,6 +1155,9 @@
             "meng ya",
             "mengya",
             "my"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -886,6 +1167,9 @@
             "menki",
             "meng qi",
             "mq"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -895,6 +1179,9 @@
             "mi yue",
             "miyue",
             "my"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -904,6 +1191,9 @@
             "milady",
             "milaidi",
             "mld"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -913,6 +1203,10 @@
             "ming",
             "ming shiyin",
             "msy"
+        ],
+        "server": [
+            "honorofkings",
+            "arenaofvalor"
         ]
     },
     {
@@ -923,6 +1217,9 @@
             "mo zi",
             "peacekeeper",
             "mz"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -933,6 +1230,9 @@
             "huamulan",
             "hua mulan",
             "ml"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -944,6 +1244,9 @@
             "gongben",
             "gongben wuzhang",
             "gbwz"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -954,6 +1257,9 @@
             "nako",
             "xiaoji",
             "nkll"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -962,6 +1268,9 @@
         "alias": [
             "nezha",
             "nz"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -974,6 +1283,9 @@
             "toro hok",
             "torohok",
             "nm"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -982,6 +1294,9 @@
         "alias": [
             "nuwa",
             "nw"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -990,6 +1305,9 @@
         "alias": [
             "pangu",
             "pg"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -1002,6 +1320,9 @@
             "pei qin hu",
             "laohu",
             "tigerous"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -1012,6 +1333,9 @@
             "sang qi",
             "sangqi",
             "sq"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -1022,6 +1346,9 @@
             "waner",
             "shangguan waner",
             "sgwe"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -1032,6 +1359,9 @@
             "xi shi",
             "xishi",
             "xs"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -1041,17 +1371,24 @@
             "shouyue",
             "baili shouyue",
             "blsy"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
         "value": "sikong zhen",
-        "text": "Sikong Zhen (司空震)",
+        "text": "Sikong Zhen / Bolt Baron (司空震)",
         "alias": [
             "sikong zhen",
             "sikongzhen",
             "bolt baron",
             "sikong",
             "skz"
+        ],
+        "server": [
+            "honorofkings",
+            "arenaofvalor"
         ]
     },
     {
@@ -1060,6 +1397,9 @@
         "alias": [
             "sima yi",
             "smy"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -1068,6 +1408,9 @@
         "alias": [
             "su lie",
             "sl"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -1079,6 +1422,9 @@
             "bin",
             "timebender",
             "sb"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -1089,6 +1435,9 @@
             "sunce",
             "seafarer",
             "sc"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -1097,6 +1446,9 @@
         "alias": [
             "sun quan",
             "sq"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -1107,6 +1459,9 @@
             "wukong hok",
             "monkey king",
             "swk"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -1117,6 +1472,9 @@
             "zhenren",
             "tz",
             "tyzr"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -1127,6 +1485,9 @@
             "ukyo",
             "juyoujing",
             "jyj"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -1136,6 +1497,9 @@
             "umbrosa",
             "shadow",
             "ying"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -1145,6 +1509,9 @@
             "wang wei",
             "wangwei",
             "ww"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -1157,6 +1524,9 @@
             "frost",
             "princess frost",
             "wzj"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -1167,6 +1537,9 @@
             "wu zetian",
             "wuzetian",
             "wzt"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -1181,6 +1554,9 @@
             "zhong wu yan",
             "zhong wu yen",
             "wy"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -1190,6 +1566,9 @@
             "xiang yu",
             "xy",
             "hegemon"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -1199,6 +1578,9 @@
             "xiao qiao",
             "xq",
             "breezy"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -1208,6 +1590,9 @@
             "xinmo liuer",
             "liuer",
             "xmle"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -1217,6 +1602,9 @@
             "xuance",
             "baili xuance",
             "blxc"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -1225,6 +1613,9 @@
         "alias": [
             "yang jian",
             "yj"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -1236,6 +1627,9 @@
             "yuan song",
             "yuange",
             "yg"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -1246,6 +1640,9 @@
             "dongfang yao",
             "male yao",
             "yao m"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -1255,6 +1652,9 @@
             "yaria",
             "female yao",
             "yao f"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -1264,6 +1664,9 @@
             "ying",
             "yunying",
             "yun ying"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -1272,6 +1675,9 @@
         "alias": [
             "ying zheng",
             "yz"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -1282,6 +1688,9 @@
             "yi xing",
             "xing",
             "yx"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -1293,6 +1702,9 @@
             "yang yuhuan",
             "yang guifei",
             "yyh"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -1303,6 +1715,9 @@
             "zhangfei",
             "beast",
             "zf"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -1313,6 +1728,9 @@
             "zhao hz",
             "huaizhen",
             "zhz"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -1321,6 +1739,9 @@
         "alias": [
             "zhou yu",
             "zy"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -1331,6 +1752,9 @@
             "bajie",
             "pig",
             "zbj"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -1344,6 +1768,9 @@
             "dreambuilder",
             "yu",
             "zz"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -1353,6 +1780,9 @@
             "zilong",
             "zhao yun",
             "zy"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -1363,6 +1793,9 @@
             "jiangziya",
             "jiang ziya",
             "jzy"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -1370,6 +1803,10 @@
         "text": "Ata (阿塔)",
         "alias": [
             "ata"
+        ],
+        "server": [
+            "honorofkings",
+            "arenaofvalor"
         ]
     },
     {
@@ -1379,6 +1816,9 @@
             "fatih",
             "fatihe",
             "fth"
+        ],
+        "server": [
+            "honorofkings"
         ]
     },
     {
@@ -1390,6 +1830,1242 @@
             "khan",
             "cjsh",
             "chengjisihan"
+        ],
+        "server": [
+            "honorofkings"
+        ]
+    },
+    {
+        "value": "annette",
+        "text": "Annette",
+        "alias": [
+            "annette"
+        ],
+        "server": [
+            "honorofkings",
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "aoi",
+        "text": "Aoi",
+        "alias": [
+            "aoi"
+        ],
+        "server": [
+            "honorofkings",
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "capheny",
+        "text": "Capheny",
+        "alias": [
+            "capheny"
+        ],
+        "server": [
+            "honorofkings",
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "florentino",
+        "text": "Florentino",
+        "alias": [
+            "florentino"
+        ],
+        "server": [
+            "honorofkings",
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "liliana",
+        "text": "Liliana",
+        "alias": [
+            "liliana"
+        ],
+        "server": [
+            "honorofkings",
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "lorion",
+        "text": "Lorion",
+        "alias": [
+            "lorion"
+        ],
+        "server": [
+            "honorofkings",
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "thorne",
+        "text": "Thorne",
+        "alias": [
+            "thorne"
+        ],
+        "server": [
+            "honorofkings",
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "veres",
+        "text": "Veres",
+        "alias": [
+            "veres"
+        ],
+        "server": [
+            "honorofkings",
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "zip",
+        "text": "Zip",
+        "alias": [
+            "zip",
+            "pipi"
+        ],
+        "server": [
+            "honorofkings",
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "airi",
+        "text": "Airi",
+        "alias": [
+            "airi"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "aleister",
+        "text": "Aleister",
+        "alias": [
+            "aleister"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "alice",
+        "text": "Alice",
+        "alias": [
+            "alice"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "amily",
+        "text": "Amily",
+        "alias": [
+            "amily"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "arduin",
+        "text": "Arduin",
+        "alias": [
+            "arduin"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "aya",
+        "text": "Aya",
+        "alias": [
+            "aya"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "arum",
+        "text": "Arum",
+        "alias": [
+            "arum"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "astrid",
+        "text": "Astrid",
+        "alias": [
+            "astrid"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "azzen'ka",
+        "text": "Azzen'Ka",
+        "alias": [
+            "azzenka",
+            "azzen'ka"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "baldum",
+        "text": "Baldum",
+        "alias": [
+            "baldum"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "bijan",
+        "text": "Bijan",
+        "alias": [
+            "bijan"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "billow",
+        "text": "Billow",
+        "alias": [
+            "billow"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "bonnie",
+        "text": "Bonnie",
+        "alias": [
+            "bonnie"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "bright",
+        "text": "Bright",
+        "alias": [
+            "bright"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "celica",
+        "text": "Celica",
+        "alias": [
+            "celica",
+            "brunhilda"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "chaugnar",
+        "text": "Chaugnar",
+        "alias": [
+            "chaugnar"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "cresht",
+        "text": "Cresht",
+        "alias": [
+            "cresht"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "d'arcy",
+        "text": "D'Arcy",
+        "alias": [
+            "darcy",
+            "d'arcy"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "dextra",
+        "text": "Dextra",
+        "alias": [
+            "dextra"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "dirak",
+        "text": "Dirak",
+        "alias": [
+            "dirak"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "edras",
+        "text": "Edras",
+        "alias": [
+            "edras"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "eland'orr",
+        "text": "Eland'orr",
+        "alias": [
+            "elandorr",
+            "eland'orr"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "elsu",
+        "text": "Elsu",
+        "alias": [
+            "elsu"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "enzo",
+        "text": "Enzo",
+        "alias": [
+            "enzo"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "errol",
+        "text": "Errol",
+        "alias": [
+            "errol"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "evita",
+        "text": "Evita",
+        "alias": [
+            "evita"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "fennik",
+        "text": "Fennik",
+        "alias": [
+            "fennik"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "gildur",
+        "text": "Gildur",
+        "alias": [
+            "gildur"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "goverra",
+        "text": "Goverra",
+        "alias": [
+            "goverra"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "grakk",
+        "text": "Grakk",
+        "alias": [
+            "grakk"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "hayate",
+        "text": "Hayate",
+        "alias": [
+            "hayate"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "helen",
+        "text": "Helen",
+        "alias": [
+            "helen"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "iggy",
+        "text": "Iggy",
+        "alias": [
+            "iggy",
+            "yige"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "ignis",
+        "text": "Ignis",
+        "alias": [
+            "ignis"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "ishar",
+        "text": "Ishar",
+        "alias": [
+            "ishar"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "ilumia",
+        "text": "Ilumia",
+        "alias": [
+            "ilumia",
+            "illumia"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "jinnar",
+        "text": "Jinnar",
+        "alias": [
+            "jinna",
+            "jinnar"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "kaine",
+        "text": "Kaine",
+        "alias": [
+            "kaine"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "kahlii",
+        "text": "Kahlii",
+        "alias": [
+            "kahlii"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "keera",
+        "text": "Keera",
+        "alias": [
+            "keera"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "kil'groth",
+        "text": "Kil'Groth",
+        "alias": [
+            "kilgroth",
+            "kil'groth"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "kriknak",
+        "text": "Kriknak",
+        "alias": [
+            "kriknak"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "krixi",
+        "text": "Krixi",
+        "alias": [
+            "krixi"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "krizzix",
+        "text": "Krizzix",
+        "alias": [
+            "krizzix"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "lauriel",
+        "text": "Lauriel",
+        "alias": [
+            "lauriel"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "laville",
+        "text": "Laville",
+        "alias": [
+            "laville"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "lindis",
+        "text": "Lindis",
+        "alias": [
+            "lindis"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "lumburr",
+        "text": "Lumburr",
+        "alias": [
+            "lumburr"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "maloch",
+        "text": "Maloch",
+        "alias": [
+            "maloch"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "marja",
+        "text": "Marja",
+        "alias": [
+            "marja"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "max",
+        "text": "Max",
+        "alias": [
+            "max"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "mganga",
+        "text": "Mganga",
+        "alias": [
+            "mganga"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "mina",
+        "text": "Mina",
+        "alias": [
+            "mina"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "moren",
+        "text": "Moren",
+        "alias": [
+            "moren"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "murad",
+        "text": "Murad",
+        "alias": [
+            "murad"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "nakroth",
+        "text": "Nakroth",
+        "alias": [
+            "nakroth"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "natalya",
+        "text": "Natalya",
+        "alias": [
+            "natalya"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "omega",
+        "text": "Omega",
+        "alias": [
+            "omega"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "omen",
+        "text": "Omen",
+        "alias": [
+            "omen"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "ormarr",
+        "text": "Ormarr",
+        "alias": [
+            "ormarr"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "paine",
+        "text": "Paine",
+        "alias": [
+            "paine"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "preyta",
+        "text": "Preyta",
+        "alias": [
+            "preyta"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "qi",
+        "text": "Qi",
+        "alias": [
+            "qi"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "quillen",
+        "text": "Quillen",
+        "alias": [
+            "quillen"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "raz",
+        "text": "Raz",
+        "alias": [
+            "raz"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "riktor",
+        "text": "Riktor",
+        "alias": [
+            "riktor",
+            "richter"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "roxie",
+        "text": "Roxie",
+        "alias": [
+            "roxie"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "rouie",
+        "text": "Rouie",
+        "alias": [
+            "rouie"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "rourke",
+        "text": "Rourke",
+        "alias": [
+            "rourke"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "ryoma",
+        "text": "Ryoma",
+        "alias": [
+            "ryoma"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "sephera",
+        "text": "Sephera",
+        "alias": [
+            "sephera"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "sinestrea",
+        "text": "Sinestrea",
+        "alias": [
+            "sinestrea"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "skud",
+        "text": "Skud",
+        "alias": [
+            "skud"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "slimz",
+        "text": "Slimz",
+        "alias": [
+            "slimz"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "stuart",
+        "text": "Stuart",
+        "alias": [
+            "stuart"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "superman",
+        "text": "Superman",
+        "alias": [
+            "superman"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "taara",
+        "text": "Taara",
+        "alias": [
+            "taara"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "tachi",
+        "text": "Tachi",
+        "alias": [
+            "tachi"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "tamyn",
+        "text": "Tamyn",
+        "alias": [
+            "tamyn"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "teemee",
+        "text": "TeeMee",
+        "alias": [
+            "teemee"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "teeri",
+        "text": "Teeri",
+        "alias": [
+            "teeri"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "tel'annas",
+        "text": "Tel'Annas",
+        "alias": [
+            "tel'annas",
+            "telannas"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "thane",
+        "text": "Thane",
+        "alias": [
+            "thane"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "the flash",
+        "text": "The Flash",
+        "alias": [
+            "the flash",
+            "flash"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "toro",
+        "text": "Toro",
+        "alias": [
+            "toro"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "tulen",
+        "text": "Tulen",
+        "alias": [
+            "tulen"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "valhein",
+        "text": "Valhein",
+        "alias": [
+            "valhein"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "veera",
+        "text": "Veera",
+        "alias": [
+            "veera"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "violet",
+        "text": "Violet",
+        "alias": [
+            "violet"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "volkath",
+        "text": "Volkath",
+        "alias": [
+            "volkath"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "wiro sableng",
+        "text": "Wiro Sableng",
+        "alias": [
+            "wiro sableng",
+            "wiro"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "wisp",
+        "text": "Wisp",
+        "alias": [
+            "wisp"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "wonder woman",
+        "text": "Wonder Woman",
+        "alias": [
+            "wonder woman",
+            "wonderwoman",
+            "ww"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "xeniel",
+        "text": "Xeniel",
+        "alias": [
+            "xeniel"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "yan",
+        "text": "Yan",
+        "alias": [
+            "yan"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "y'bneth",
+        "text": "Y'bneth",
+        "alias": [
+            "ybneth",
+            "y'bneth"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "yena",
+        "text": "Yena",
+        "alias": [
+            "yena"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "yorn",
+        "text": "Yorn",
+        "alias": [
+            "yorn"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "yue",
+        "text": "Yue",
+        "alias": [
+            "yue"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "zanis",
+        "text": "Zanis",
+        "alias": [
+            "zanis"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "zata",
+        "text": "Zata",
+        "alias": [
+            "zata"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "zephys",
+        "text": "Zephys",
+        "alias": [
+            "zephys"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "zill",
+        "text": "Zill",
+        "alias": [
+            "zill"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "zuka",
+        "text": "Zuka",
+        "alias": [
+            "zuka",
+            "panda"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "payna",
+        "text": "Payna",
+        "alias": [
+            "peura",
+            "payna"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "batman",
+        "text": "Batman",
+        "alias": [
+            "batman"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "the joker",
+        "text": "The Joker",
+        "alias": [
+            "joker",
+            "the joker"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "arthur",
+        "text": "Arthur (亚瑟 (AoV))",
+        "alias": [
+            "arthur",
+            "mortos"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "diao chan",
+        "text": "Diao Chan (貂蝉 (AoV))",
+        "alias": [
+            "diaochan",
+            "diao chan"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "lu bu",
+        "text": "Lu Bu (吕布 (AoV))",
+        "alias": [
+            "lu bu",
+            "lubu",
+            "lubu aov",
+            "lu bu aov"
+        ],
+        "server": [
+            "arenaofvalor"
+        ]
+    },
+    {
+        "value": "wukong",
+        "text": "Wukong (孙悟空 (AoV))",
+        "alias": [
+            "wukong"
+        ],
+        "server": [
+            "arenaofvalor"
         ]
     }
 ]
